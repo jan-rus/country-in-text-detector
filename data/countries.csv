@@ -1,0 +1,298 @@
+country_iso_3166-1_alpha-2;country_name;string_match
+AD;Andorra;(d'?)?Andorr?[ae]
+AE;United Arab Emirates;United Arab Emirates, [E]mirat(e|es|os), UAE, دولة الإمارات العربية المتحدة
+AF;Afghanistan;Af[g]h?[a]n[ie]st[a]n, افغانستان‎
+AG;Antigua and Barbuda;Antigua [&] Barbuda, Antigua, Barbuda
+AI;Anguilla;Anguill?a
+AL;Albania;Alb[a]ni[ae], Albanien, Shqip[ë]ria?, Shq[iy]pnia?
+AM;Armenia;Arm[e]ni[ae], Armenien, Hayastan, Հայաստան
+AN;Netherlands Antilles;Ne(d|th)erlands? Antilles, Nederlandse Antillen, Antia Hulandes
+AO;Angola;A?ngola
+AQ;Antarctica;Antar[ck]ti[ck]a, Atartique, Antarktis, Ant[á]rtida
+AR;Argentina;Argentin[ae], Argentinien
+AS;American Samoa;Ame[rl]ican? S[a]moa
+AT;Austria;Austria, Autriche, [Ö]sterreich, Rakousko
+AU;Australia;Austr[a]li[ae]n?, Tasmania
+AW;Aruba;Aruba
+AZ;Azerbaijan;Azerbaijan, [Á]zerbajd[ž][á]n, Azǝrbaycan
+BA;Bosnia and Herzegovina;Bosni?a [&] Her[zc]egovina, Bosni?a, Her[zc]egovina, Bosna i Hercegovina, Боснa и Херцеговина
+BB;Barbados;Barbad(os|e)
+BD;Bangladesh;Banglad[e][s](h|ch)?, Bāṃlādēśa, বাংলাদেশ
+BE;Belgium;B[e]lgi(um|que|en|ca), Belgi[ë]
+BF;Burkina Faso;Burkina Faso
+BG;Bulgaria;Bulgari[ae]n?, Bulharsko, България, Bǎlgariya
+BH;Bahrain;Bah?r[ae]in, al-Baḥrayn, البحرين
+BI;Burundi;Burundi, Republika y'Uburundi
+BJ;Benin;B[e]n[i]n, Dahomey
+BL;St. Bartélemy;Barth[é]lemy, San Bartolomé
+BM;Bermuda;Bermud[aye]s
+BN;Brunei;(Negara)? Brun[e]i Darussalam, Brun[e]i
+BO;Bolivia;Bol[i]vi[ae]n?, Mborivia, Buliwya, Wuliwya
+BR;Brazil;Br[aé][zs][i]l(ie)?
+BS;Bahamas;Bahama[sy]
+BT;Bhutan;Bh?[u]t[a]n, Bhoutan
+BV;Bouvet Island;Bouvet Island, Bouvetøya
+BW;Botswana;Bots[wu]ana
+BY;Belarus;Belarus, B[ě]lorusko, Беларусь, Bi?e[l]aru[ś], Bielorrusia, Bi[é]lorussie
+BZ;Belize;Beli[zc]e, British Honduras
+CA;Canada;Canad[a], Kanada
+CC;Cocos (Keeling) Islands;(Cocos|Keeling) Islands?, Kokosinseln, (Islas|[I]les) Cocos
+CD;The Democratic Republic of the Congo;(Democratic)? Republic of (the )?[CK]ongo, Zaire, [CK]ongo Kinshasa
+CF;Central African Republic;Central African Republic, CAR, Ködörösêse tî Bêafrîka, République centrafricaine, Centrafrique
+CG;Congo;[CK]ongo Brazzaville, [CK]ongo
+CH;Switzerland;Switzerland, [Š]v[í]carsko, Swiss, Suíço, Schweiz, Svizzera, Suisse, Svizra
+CI;Ivory Coast;Ivory Coast, C[ô]te d'?Ivoire, Costa de Marfil
+CK;Cook Islands;Cook Islands, Kūki 'Āirani, (Islas|[I]les) Cook, Cookinseln
+CL;Chile;Chile
+CM;Cameroon;Camero[ou]n, [CK]amer[u]n
+CN;China;China, [Č][í]na
+CO;Colombia;Colombi[ae], Kolumbien?
+CR;Costa Rica;Costa Rica, Kostarika
+CU;Cuba;[CK]uba
+CV;Cape Verde;Ca(pe|bo) Verde, Kap Verde, Cap Vert
+CW;Curaçao;Cura([ç]|z)ao
+CX;Christmas Island;Christmas Island, (Isla|[I]le) Christmas, Weihnachtsinsel
+CY;Cyprus;Cyprus, Kypr, K[ý]pros, K[ı]br[ı]s, Zypern, Ch[iy]pre
+CZ;Czech Republic;Czech Republic, [Č]esk([á][é]) Republik[ay], [Č]esk[oa], Morav[ay], Tschechische Republik
+DE;Germany;Germany, Deutschland, N[ě]meck[oua], All?eman(ia|ge)
+DJ;Djibouti;Djibouti, [JG]abuuti
+DK;Denmark;D[eaä]ne?mark, D[á]nsko, Dinamarca
+DM;Dominica;Domini(ca|que), Wai‘tu kubuli
+DO;Dominican Republic;Dominican Republic, Rep[ú]blica Dominicana, Dominik[á]nsk[á] Republika
+DZ;Algeria;Alg[e]ri[ea]n?, al-Jazā'ir
+EC;Ecuador;Ecuador, Ekv[á]dor, Ikwadur, Équateur
+EE;Estonia;Estoni[ae], Est(onsko|land), Eesti
+EG;Egypt;[E]gypte?, M[ia]ṣr, Egipto, Ägypten
+EH;Western Sahara;Western Sahara, Sahara Occidental
+ER;Eritrea;Eritrea, Érythrée
+ES;Spain;Spain, Испании, Espa[ñ]a, Španělsko, Espagne, Spanien
+ET;Ethiopia;[E]th?iop[i][ae], Äthiopien
+FI;Finland;Finn?land(e|ia)?, Finsko, Suomi
+FJ;Fiji Islands;Fiji Islands, Fiji, Fiyi, Fidji, Fidschi
+FK;Falkland Islands;Falkland Islands, Islas Malvinas, Falklandy, Falklandské ostrovy, [I]les Malouines, Falklandinseln
+FM;Federated States of Micronesia;Mi[ck]ron[e]si[ae]n?
+FO;Faroe Islands;Fae?roe Islands, Føroyar, Færøerne
+FR;France;France, French Republic, République française
+GA;Gabon;Gab[o]n, Gabonese Republic, République gabonaise, Gabun
+GB;United Kingdom;United Kingdom, UK, Great Britain, GB
+GD;Grenada;Grenad[ae]
+GE;Georgia;G[e]orgi[ae], Sakartvelo, Abkhazia, საქართველო
+GF;French Guiana;French Guiana, Guyane française, Guiana, Guyane
+GH;Ghana;Ghana
+GI;Gibraltar;Gibraltar
+GL;Greenland;Greenland, Kalaallit Nunaat, Grønland, Gr[ó]nsko, Gr[o]e?nland
+GM;Gambia;Gambi[ae]
+GN;Guinea;Guin[e][ae], République de Guinée, Guinée française
+GP;Guadeloupe;Guadelo?upe, Gwadloup
+GQ;Equatorial Guinea;Equatorial Guinea, Rovn[í]kov[á] Guinea, Guinea Ecuatorial, Guinée équatoriale, Guiné Equatorial
+GR;Greece;Gr[e]e?c(e|ia), Ελλάδα, Grecia, [Ř]ecko, Ell[á]da, Hellenic Republic
+GS;South Georgia and the South Sandwich Islands;South Georgia [&] (the )?South Sandwich Islands, SGSSI
+GT;Guatemala;Guatemala
+GU;Guam;Guam, Guåhån
+GW;Guinea-Bissau;Guin[e]a? Bissau
+GY;Guyana;Guyana
+HK;Hong Kong;Hong Kong
+HM;Heard Island and McDonald Islands;Heard Island [&] McDonald Islands
+HN;Honduras;Honduras
+HR;Croatia;Croatia, Hrvatska, Chorvatsko
+HT;Haiti;Ha[i]ti, Ayiti
+HU;Hungary;Hungary, Magyarorsz[á]g, Ma[ď]arsko
+ID;Indonesia;Indon[e]si[ae]
+IE;Ireland;Ireland, [É]ire, Airlann, Irsko
+IL;Israel;Israel [&] the Occupied Territories, I[sz]ra[e]l, יִשְׂרָאֵל‎, إِسْرَائِيل‎‎
+IN;India;Indi[ae], Bhārat Gaṇarājya
+IO;British Indian Ocean Territory;British Indian Ocean Territory
+IQ;Iraq;[I]r[a][qk], Eraq, al-‘?Ir[ā]q
+IR;Iran;[I]r[a]n, Persia
+IS;Iceland;Iceland, [Í]sland
+IT;Italy;Italy, It[a]li[ae], Repubblica italiana
+JM;Jamaica;Jama[ij][ck]a
+JO;Jordan;Jord[a]n(ia|ie|ien)?
+JP;Japan;Japan, Japão, 日本, Japonsko, Nippon(-koku)?
+KE;Kenya;Kenya, Keňa
+KG;Kyrgyzstan;Kyrgyz Republic, Kyrgyzs?t[a]n, Кыргызстан, Qırğızstan, Киргизия, Kirgizija
+KH;Cambodia;Cambodia, Kampuchea, Kambodža
+KI;Kiribati;Kiribati
+KM;Comoros;Comor[oea]s
+KN;Saint Kitts and Nevis;Saint Kitts [&] Nevis
+KP;North Korea;(North|Seven[i]) Korea
+KR;South Korea;(South|Jižní) Korea
+KW;Kuwait;Kuwait
+KY;Cayman Islands;Cayman Islands, Kajmansk[é] Ostrovy
+KZ;Kazakstan;Ka[zs]akhstan, Казахстан, Қазақстан, Qazaqstan
+LA;Laos;Laos
+LB;Lebanon;L[ei]banon
+LC;Saint Lucia;Saint Lucia
+LI;Liechtenstein;Liechtenstein
+LK;Sri Lanka;Sr[i] Lanka, Śrī Laṃkā
+LR;Liberia;Lib[e]ri[ae]
+LS;Lesotho;Lesoth?o
+LT;Lithuania;Lith?uani[ae], Lietuva, Lotyšsko
+LU;Luxembourg;Luxembo?urgo?, L[ë]tzebuerg, Luxemburg
+LV;Latvia;Latvij?a, Litva
+LY;Libyan Arab Jamahiriya;Libyan Arab Jamahiriya, Lib[yi][ae]
+MA;Morocco;Morocc?o, Marokk?o, al-ma[ġ]rib, Maroc
+MC;Monaco;M[o]na[ck]o
+MD;Moldova;Moldova, Transnistria, Moldavsko
+MG;Madagascar;Madagas[ck]ar, Madagasikara
+MH;Marshall Islands;Marshall Islands, Aolepān Aorōkin M̧ajeļ, Mar[š]alovy Ostrovy
+MK;Macedonia;Republic of Macedonia, Ma[ck][e]doni[ae], Македонија, Makedonija
+ML;Mali;Mali
+MM;Myanmar;Myanmar, Burma
+MN;Mongolia;Mongoli[ae], Mongolsko
+MO;Macao;Macao
+MP;Northern Mariana Islands;Northern Mariana Islands
+MQ;Martinique;Martinique, Martinik
+MR;Mauritania;Ma?ur[ie]tan[iy][ae], Murutaane
+MS;Montserrat;Montserrat
+MT;Malta;Malt[ae]
+MU;Mauritius;Mauri[tc]ius, Maurice
+MV;Maldives;Maldives, Maledivy
+MW;Malawi;Mala[wu]i
+MX;Mexico;M[e]xi[ck]o, Mexique
+MY;Malaysia;Mala[iy]si[ae]
+MZ;Mozambique;Mo(z|[ç])ambi(que|k)
+NA;Namibia;Namibi(a|[ë])
+NC;New Caledonia;New Caledonia, Nouvelle Calédonie
+NE;Niger;N[i]ger
+NF;Norfolk Island;Norfolk Island, Norf'k Ailen
+NG;Nigeria;Nig[e]ri[ae]
+NI;Nicaragua;Nicaragua
+NL;Netherlands;Ne(d|th)erlands?, Nizozem[í]
+NO;Norway;Norway, Norge, Noreg, Norga, Norsko, Norv[e]ge, Norwegen, Noruega
+NP;Nepal;N[e]p[a]l
+NR;Nauru;Nauru, Naoero
+NU;Niue;Niu[e]
+NZ;New Zealand;New Zealand, Zealand, Nov[ý] Z[é]land, Z[é]land
+OM;Oman;Om[a]n, ʻ?Um[ā]n
+PA;Panama;Panam[a]
+PE;Peru;Per[u], Piruw
+PF;French Polynesia;French Polynesia, Polyn[é]si[ae]
+PG;Papua New Guinea;Papua New Guinea, New Guinea, Papua Niu gini
+PH;Philippines;Philippines, Filip[í]ny, [PF]ilipinas
+PK;Pakistan;P[a]kist[a]n
+PL;Poland;Poland, Polsko, Polska, Polsce
+PM;Saint Pierre and Miquelon;Saint Pierre [&] Miquelon
+PN;Pitcairn;Pitcairn, Pitkern
+PR;Puerto Rico;P(ue|o)rto Rico
+PS;Palestine;Palestin[ea]
+PT;Portugal;Portugal(sko)?, República Portuguesa
+PW;Palau;Palau, Belau, Pelew
+PY;Paraguay;Paragu[a][yi]
+QA;Qatar;Qatar
+RE;Reunion;R[e]uni[o]n
+RO;Romania;Rom[a]n[i](a|en), Rumunsko
+RU;Russia;Russian Federation, Russ?i[ae], Россия, Rossiya, Rusko
+RW;Rwanda;R[wu]anda
+SA;Saudi Arabia;Saudi Arabi[ae]
+SB;Solomon Islands;Solomon Islands
+SC;Seychelles;Seychelles
+SD;Sudan;S[u]d[a]n
+SE;Sweden;S(ch)?weden, Sverige, [Š]v[é]dsko, Suecia, S[u]ede
+SG;Singapore;Singapore, Singap[u]r
+SH;Saint Helena;(St|Saint) H?elena
+SI;Slovenia;E?Slov[e]nij?[ae]
+SJ;Svalbard and Jan Mayen;Svalbard [&] Jan Mayen
+SK;Slovakia;Slovak Republic, Slovakia, Slovensk[á] Republika, Slovensko
+SL;Sierra Leone;Sierra Leone
+SM;San Marino;San Marino, Saint-Marin
+SN;Senegal;S[e]n[e]gal
+SO;Somalia;Somal[iy][ae], Soomaaliya, Somálsko
+SR;Suriname;Suriname?
+ST;Sao Tome and Principe;S[ã]o Tom[é] [&] Pr[í]ncipe
+SV;El Salvador;El Salv[a]dor
+SY;Syria;S[yi]ri[ae]n?, S[ū]riy[ā]
+SZ;Swaziland;Swaziland, kaNgwane, Eswatini
+TC;Turks and Caicos Islands;Turks [&] Caicos Islands
+TD;Chad;Chad, Tsh[ā]d
+TF;French Southern territories;French Southern territories
+TG;Togo;Togo, Togolese Republic, R[é]publique togolaise
+TH;Thailand;Thailand(ia)?, Siam, Thajsko
+TJ;Tajikistan;Tajikistan, Таджикистан
+TK;Tokelau;Tokelau
+TM;Turkmenistan;T[u]rkmenist[a]n, Turkmenia
+TN;Tunisia;Tunisi[ae]n?, T[u]nis, T[u]nez
+TO;Tonga;Tonga
+TP;East Timor;East Timor, Timor Leste
+TR;Turkey;T[u]rke[yi], T[ü]rkiye, Turqu(ía|ie)
+TT;Trinidad and Tobago;Trinidad [&] Tobago
+TV;Tuvalu;Tuvalu, Ellice Islands
+TW;Taiwan;Ta[i]w[a]n
+TZ;Tanzania;Tan[zs]ani[ae]
+UA;Ukraine;Ukrain[ea], Украине, Україна
+UG;Uganda;Uganda
+UM;United States Minor Outlying Islands;(United States|US) (Minor)? Outlying Islands, (Baker|Howland|Jarvis|Wake|Navassa) Island, (Johnston|Midway|Palmyra) Atoll, Kingman Reef
+US;United States;United States( of America)?, USA, 美國
+UY;Uruguay;Uruguay
+UZ;Uzbekistan;O?Uzb[e]kist[a]n, Oʻ?zbekiston
+VA;Holy See (Vatican City State);Holy See, Vatican City, Civitas Vaticana, Citt[à] del Vaticano, Vati[ck][a]n, Vatikanstadt
+VC;Saint Vincent and the Grenadines;Saint Vincent'?s [&] (the )?Grenadines
+VE;Venezuela;Venezuela
+VG;Virgin Islands (British);Virgin Islands
+VI;Virgin Islands (U.S.);Virgin Islands
+VN;Vietnam;Vi[e]t'?nam
+VU;Vanuatu;Vanuatu
+WF;Wallis and Futuna;Wallis [&] Futuna
+WS;Samoa;S[a]moa
+YE;Yemen;[YJ][e]men, al Yaman
+YT;Mayotte;Mayotte
+YU;Yugoslavia;Yugoslavia, Jugosl[a]vij[ae], Југославија
+ZA;South Africa;South Africa
+ZM;Zambia;Zambi[ae]
+ZW;Zimbabwe;[ZS]imbab[wu]e
+ME;Montenegro;Mont[e]n[e]gro, Crna Gora, Црна Гора, [Č]ern[á] Hora
+XK;Kosovo;Kosov[oae], Косово
+RS;Serbia;Serbi[ae], Srbija, Србија, Srbsko
+GB-WLS;Wales;Wales
+GB-SCT;Scotland;Scotland, Skotsko
+GB-ENG;England;England, Inglaterra, Anglie
+US-AL;Alabama;Alabama
+US-AK;Alaska;Alj?a[s]ka
+US-AZ;Arizona;Arizona
+US-AR;Arkansas;Arkansas
+US-CA;California;[CK]aliforni[ae]
+US-CO;Colorado;[CK]olor[a]do
+US-CT;Connecticut;Connecticut
+US-DE;Delaware;Delaware
+US-FL;Florida;Florida
+US-GA;Georgia;Georgi[ae]
+US-HI;Hawaii;Hawaii
+US-ID;Idaho;Idaho
+US-IL;Illinois;Illinois
+US-IN;Indiana;Indiana
+US-IA;Iowa;Iowa
+US-KS;Kansas;Kansas
+US-KY;Kentucky;Kentucky
+US-LA;Louisiana;Louisiana
+US-ME;Maine;Maine
+US-MD;Maryland;Maryland
+US-MA;Massachusetts;Massachusetts
+US-MI;Michigan;Michigan
+US-MN;Minnesota;Minnesota
+US-MS;Mississippi;Mississippi
+US-MO;Missouri;Missouri
+US-MT;Montana;Montana
+US-NE;Nebraska;Nebraska
+US-NV;Nevada;Nevada
+US-NH;New Hampshire;New Hampshire
+US-NJ;New Jersey;New Jersey
+US-NM;New Mexico;New Mexico
+US-NY;New York;New York
+US-NC;North Carolina;North Carolina
+US-ND;North Dakota;North Dakota
+US-OH;Ohio;Ohio
+US-OK;Oklahoma;Oklahoma
+US-OR;Oregon;Oregon
+US-PA;Pennsylvania;Pennsylvania
+US-RI;Rhode Island;Rhode Island
+US-SC;South Carolina;South Carolina
+US-SD;South Dakota;South Dakota
+US-TN;Tennessee;Tennessee
+US-TX;Texas;Texas
+US-UT;Utah;Utah
+US-VT;Vermont;Vermont
+US-VA;Virginia;Virginia
+US-WA;Washington;Washington
+US-WV;West Virginia;West Virginia
+US-WI;Wisconsin;Wisconsin
+US-WY;Wyoming;Wyoming

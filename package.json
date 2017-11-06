@@ -1,0 +1,19 @@
+{
+	"name": "country-in-text-detector",
+	"version": "1.0.0",
+	"author": "Jan Rus <ing.janrus@gmail.com> (https://cz.linkedin.com/in/rusjan)",
+	"description": "Very simple module for detection of countries in given text. Detects countries by international and local name, some of them even by EN, ES, FR, DE, CZ mutations.",
+	"keywords": "country, state, detection, string",
+	"license": "MIT",
+	"main": "index.coffee",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/jan-rus/country-in-text-detector.git"
+	},
+	"engines": {
+		"node": "1.0.0",
+		"coffee-script": "1.0.0"
+	},
+	"dependencies": {
+	}
+}
