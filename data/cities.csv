@@ -1,0 +1,401 @@
+country_iso_3166-1_alpha-2;country_name;city_name;string_match
+AF;Afghanistan;Kabul;K[a]b[uo]l, کابل
+US-AK;Alaska;Juneau;Juneau
+AL;Albania;Tirana;Tirana, Tiran[ë], Tirona
+DZ;Algeria;Algiers;Algiers, Alger, الجزائر
+DZ;Algeria;Oran;Oran, Wahr[ā]n, وهران
+AD;Andorra;Andorra la Vella;Andorra la (Vella|Vieja), Andorre la Vieille
+AO;Angola;Luanda;L[uo]anda
+AR;Argentina;Buenos Aires;Buenos Aires
+AR;Argentina;Córdoba;C[ó]rdoba
+AR;Argentina;Rosario;Rosario
+AR;Argentina;San Juan;San Juan
+US-AZ;Arizona;Phoenix;Phoenix
+US-AZ;Arizona;Scottsdale;Scottsdale
+US-AR;Arkansas;Little Rock;Little Rock
+AM;Armenia;Yerevan;Y?erevan, Երևան
+AU;Australia;Adelaide;Adelaide
+AU;Australia;Brisbane;Brisbane
+AU;Australia;Melbourne;Melbourne
+AU;Australia;Perth;Perth
+AU;Australia;Scottsdale (Tasmania);Scottsdale.+Tasmania
+AU;Australia;Sydney;Sydney
+AT;Austria;Salzburg;Salzburg, S[å]izburg
+AT;Austria;Vienna;Vídeň, Wien, Vienna
+AZ;Azerbaijan;Baku;Baku, Bak[ı]
+AZ;Azerbaijan;Stepanakert;Step'?anakert, Khankendi, Vararakn, Ստեփանակերտ
+BD;Bangladesh;Chittagong;Chittagong, Chottogram, Chatga, চট্টগ্রাম
+BD;Bangladesh;Dhaka;Dhaka, Dacca, ঢাকা
+BY;Belarus;Minsk;Minsk, Мінск, Минск, Менск
+BE;Belgium;Brussels;Brussels?, Bruxelles
+BO;Bolivia;Santa Cruz de la Sierra;Santa Cruz( de la Sierra)?
+BA;Bosnia and Herzegovina;Sarajevo;Sarajevo, Сарајево
+BR;Brazil;Belo Horizonte;Belo Horizonte
+BR;Brazil;Brazilia;Bra[sz][i]l(ia)?
+BR;Brazil;Campinas;Campinas
+BR;Brazil;Curitiba;Curitiba
+BR;Brazil;Fortaleza;Fortaleza
+BR;Brazil;Porto Alegre;Porto Alegre
+BR;Brazil;Recife;Recife
+BR;Brazil;Rio de Janeiro;Rio( de Janeiro)?
+BR;Brazil;São Paulo;S[ã]o Paulo
+BG;Bulgaria;Sofia;Sofiy?a, София
+BF;Burkina Faso;Ouagadougou;Ouagadougou
+US-CA;California;Beverly Hills;Beverly Hills
+US-CA;California;Huntington Beach;Huntington Beach
+US-CA;California;Los Angeles;Los [A]ngeles
+US-CA;California;Oakland;Oakland
+US-CA;California;Palm Springs;Palm Springs
+US-CA;California;Sacramento;Sacramento
+US-CA;California;San Diego;San Diego
+US-CA;California;San Francisco;San Francisco
+US-CA;California;San José;San Jos[e]
+US-CA;California;Santa Barbara;Santa Barbara
+US-CA;California;Santa Monica;Santa Monica
+KH;Cambodia;Phnom Penh;Phnom Penh, Krong Chaktomuk
+CM;Cameroon;Douala;Do?uala
+CM;Cameroon;Yaoundé;Yaound[é], Jaunde
+CA;Canada;Calgary;Calgary
+CA;Canada;Montréal;Montr[e]al
+CA;Canada;Ottawa;Ottawa
+CA;Canada;Toronto;Toronto
+CA;Canada;Vancouver;Vancouver
+CA;Canada;Winnipeg;Winnipeg
+CL;Chile;Santiago de Chile;Santiago( de Chile)?
+CN;China;Beijing;Beijing, Peking, 北京市
+CN;China;Changchun;Changchun, 长春市
+CN;China;Changsha;Changsha, Chángshā, 长沙市
+CN;China;Chaozhou;Chaozhou, Chiuchow, Chaochow, Teochew, 潮州市
+CN;China;Chengdu;Chengdu, Chengtu
+CN;China;Chongqing;Chongqing, Chungking, 重庆
+CN;China;Dalian;Dalian, 大连市
+CN;China;Dongguan;Dongguan, 东莞市
+CN;China;Foshan;Foshan, Fatshan, 佛山市
+CN;China;Fuzhou;Fuzhou, Foochow, 福州市
+CN;China;Guangzhou;Guangzhou, Canton, 广州市
+CN;China;Hangzhou;Hangzhou, Hangchow, 杭州市
+CN;China;Harbin;Harbin, 哈尔滨市
+CN;China;Hefei;Hefei, Luzhou, Luchow, Ho-fei, Liu-tcheou, 合肥市
+CN;China;Jinan;Jinan, Tsinan
+CN;China;Lanzhou;Lanzhou, 兰州市
+CN;China;Nanjing;Nanjing, Nanking, Nankin, 南京市
+CN;China;Ningbo;Ning[bp]o, 宁波市
+CN;China;Qingdao;Qingdao, Tsingtao, 青岛市
+CN;China;Quanzhou;Quanzhou, Chinchew, 泉州市
+CN;China;Shanghai;Shanghai, 上海
+CN;China;Shantou;Shantou, Swatow, 汕头市
+CN;China;Shenyang;Shenyang, Mukden, Fengtian, 沈阳市
+CN;China;Shenzhen;Shenzhen, 深圳市
+CN;China;Shijiazhuang;Shijiazhuang, 石家庄市
+CN;China;Suzhou;Suzhou, Soochow, 苏州市
+CN;China;Tainan;Tainan City, 臺南市
+CN;China;Tangshan;Tangshan, Tángshān, 唐山市
+CN;China;Tianjin;Tianjin, Tientsin, 天津市
+CN;China;Tianjin;Tianjin, Tientsin, 天津市
+CN;China;Wenzhou;Wenzhou, 温州市
+CN;China;Wuhan;Wuhan, 武汉市
+CN;China;Xi'an;Xi'?an, 西安市
+CN;China;Xiamen;Xiamen, Amoy, 厦门市
+CN;China;Zhengzhou;Zhengzhou, 郑州市
+CN;China;Zhongshan;Zhongshan, 中山市
+CN;China;Zunyi;Zunyi, 遵义市
+CO;Colombia;Barranquilla;Barranquilla
+CO;Colombia;Bogotá;Bogot[á]
+CO;Colombia;Cali;(Santiago de )?Cali
+CO;Colombia;Medellín;Medell[i]n
+US-CO;Colorado;Denver;Denver
+US-CT;Connecticut;Hartford;Hartford
+HR;Croatia;Zagreb;Zagreb
+CU;Cuba;Havana;Havana, La Habana
+CY;Cyprus;Nicosia;Nicosia, Λευκωσία, Lefkoşa
+CZ;Czech Republic;Brno;Brno
+CZ;Czech Republic;Karlovy Vary;Karlovy Vary
+CZ;Czech Republic;Ostrava;Ostrava
+CZ;Czech Republic;Pilsen;Pi?l[sz]e[n]
+CZ;Czech Republic;Prague;Prague, Pra(ha|hy|ze), Prag
+DK;Denmark;Copenhagen;Copenhagen, København, Hafnia
+DK;Denmark;Nuuk;Nuuk, Godth[å]b
+EC;Ecuador;Guayaquil;Santiago de Guayaquil, Guayaquil
+EC;Ecuador;Quito;Quito
+EG;Egypt;Alexandria;Alexandria, الإسكندرية
+EG;Egypt;Cairo;Cairo, Kahire, K[a]hir, Al-Qāhiraha, القاهرة
+EG;Egypt;Giza;G[i]zah?, الجيزة
+SV;El Salvador;San Salvador;San Salv[a]dor, El Salv[a]dor
+GB-ENG;England;Birmingham;Birmingham
+GB-ENG;England;Bristol;Bristol
+GB-ENG;England;Bristol;Bristol
+GB-ENG;England;Cambridge;Cambridge
+GB-ENG;England;Canterbury;Canterbury
+GB-ENG;England;Dover;Dover
+GB-ENG;England;Leeds;Leeds
+GB-ENG;England;Liverpool;Liverpool
+GB-ENG;England;London;London
+GB-ENG;England;Luton;Luton
+GB-ENG;England;Manchester;Manchester
+GB-ENG;England;Northampton;Northampton
+GB-ENG;England;Nottingham;Nottingham
+GB-ENG;England;Oxford;Oxford
+GB-ENG;England;Plymouth;Plymouth
+GB-ENG;England;Southampton;Southampton
+EE;Estonia;Tallinn;Tallinn
+ET;Ethiopia;Addis Ababa;Addis Ab[a]ba, Addis Abeba, Finfinne, አዲስ አበባ
+FI;Finland;Helsinki;Helsinki, Helsingfors, Helsingin
+US-FL;Florida;Miami;Miami
+US-FL;Florida;Palm Beach;Palm Beach
+US-FL;Florida;Tallahassee;Tallahassee
+FR;France;Cannes;Cannes, Canas
+FR;France;Lyon;Li?yon
+FR;France;Paris;Paris
+FR;France;Saint Tropez;(St|Sai?nt?) Trou?p[e]z
+FR;France;Verdun;Verdun
+FR;France;Versailles;Versailles
+GE;Georgia;Atlanta;Atlanta
+GE;Georgia;Sukhumi;Sukhumi, Akwa, Sokhumi, Аҟәа, სოხუმი
+GE;Georgia;Tbilisi;Tbilisi, Tiflis, თბილისი
+GE;Georgia;Tskhinvali;Tskhinvali, ცხინვალი, Цхинвал(и)
+DE;Germany;Dortmund;Dortmund, D[ü][ö]rpm
+DE;Germany;Berlin;Berl[i]n
+DE;Germany;Cologne;Cologne, K[ö]ln, K[ö]lle
+DE;Germany;Dresden;Dresden, Drezno, Drážďany
+DE;Germany;Frankfurt;Frankfurt( am Main)?
+DE;Germany;Hamburg;Hambur[gk]
+DE;Germany;Hanover;Hann?over
+DE;Germany;Munich;Munich, M[ü]nchen, Mnichov, Minga
+DE;Germany;Stuttgart;Stuttgart, Schduagert
+GH;Ghana;Accra;Accra
+GR;Greece;Athens;Athens, Athína, Αθήνα
+GT;Guatemala;Guatemala City;Guatemala City, Ciudad de Guatemala, Guate
+US-HI;Hawaii;Honolulu;Honolulu
+VA;Holy See (Vatican City State);Vatican City;Holy See, Vatican City, Civitas Vaticana, Citt[à] del Vaticano, Vati[ck][a]n, Vatikanstadt
+HK;Hong Kong;Hong Kong;Hong Kong, 香港
+HU;Hungary;Budapest;Budapest
+IS;Iceland;Reykjavík;Reykjav[í]k
+US-ID;Idaho;Boise;Boise
+US-IL;Illinois;Chicago;Chicago
+IN;India;Ahmedabad;Ahmedabad, Amdavad, Karnavati, अहमदआबाद
+IN;India;Bengaluru;Bengaluru, Bangalore
+IN;India;Bhopal;Bhopal
+IN;India;Chennai;Chennai, Madras
+IN;India;Delhi;Delh[i], Dill[i]
+IN;India;Hyderabad;Hyderabad
+IN;India;Jaipur;Jaipur
+IN;India;Kanpur;Kanpur, Cawnpore
+IN;India;Kochi;Kochi, Cochin
+IN;India;Kolkata;Kolkata, Calcutta
+IN;India;Lucknow;Lucknow
+IN;India;Mumbai;Mumbai, Bombay
+IN;India;Nagpur;Nagpur
+IN;India;New Delhi;New Delh[i]
+IN;India;Patna;Patna
+IN;India;Pune;Pune, Poona
+IN;India;Surat;Surat, Suryapur
+IN;India;Vadodara;Vadodara, Baroda
+IN;India;Vijayawada;Vijayawada, Bejjamwada, Bezawada, Rajendracholapuram, Vijayavatika
+IN;India;Visakhapatnam;Visakhapatnam, Vizag, Vizagapatam, Waltair
+US-IN;Indiana;Indianapolis;Indianapolis
+ID;Indonesia;Bandung;Bandung, Stad Bandoeng, Kota Bandung
+ID;Indonesia;Jakarta;Jakarta
+ID;Indonesia;Makassar;Ma[kc]assar
+ID;Indonesia;Malang;Malang
+ID;Indonesia;Medan;Medan
+ID;Indonesia;Palembang;Palembang
+ID;Indonesia;Semarang;S[ea]marang
+ID;Indonesia;Surabaya;Surabaya, Soeraba[ij]a
+US-IA;Iowa;Des Moines;Des Moines
+IR;Iran;Isfahan;[IE]sfahan, Esfah[ā]n, Ispahan, اصفهان
+IR;Iran;Karaj;Karaj, کرج
+IR;Iran;Mashhad;Mashhad, Mašhad
+IR;Iran;Shiraz;Shiraz, شیراز
+IR;Iran;Tabriz;Tabriz, T[ə]briz, تبریز
+IR;Iran;Tehran;Tehr[a]n, تهران
+IQ;Iraq;Baghdad;Baghdad, Bagd[a]d, بغداد
+IQ;Iraq;Basra;Basra, al-Baṣrah, البصرة
+IE;Ireland;Belfast;Belfast, Béal Feirste
+IE;Ireland;Dublin;Dublin, Baile Átha Cliath
+IL;Israel;Tel Aviv;Tel Aviv, תל אביב-יפו, تل أَبيب-يافا
+IT;Italy;Florence;Florence, Firenze, Florencie
+IT;Italy;Milan;Mil[aá]no?
+IT;Italy;Rome;R[o]m[ea]
+CI;Ivory Coast;Abidjan;Abidjan
+JP;Japan;Fukuoka;Fukuoka, Fukuoka-shi, 福岡市
+JP;Japan;Hiroshima;Hiroshima, 広島市
+JP;Japan;Kawasaki;Kawasaki, Kawasaki-shi, 川崎市
+JP;Japan;Kobe;Kobe, Kōbe-shi, 神戸市
+JP;Japan;Kyoto;Ky[o]to, 京都市
+JP;Japan;Nagoya;Nagoya, 名古屋
+JP;Japan;Osaka;[Ō]saka(-shi)?, 大阪市
+JP;Japan;Saitama;Saitama, Saitama-shi, さいたま市
+JP;Japan;Sapporo;Sapporo, 札幌市
+JP;Japan;Tokyo;Tokyo( Metropolis)?, 東京都
+JP;Japan;Yokohama;Yokohama, 横浜市
+JO;Jordan;Amman;Amman, عمّان
+US-KS;Kansas;Topeka;Topeka
+KZ;Kazakhstan;Almaty;Almaty, Alma Ata Алматы, Almatı
+KZ;Kazakhstan;Astana;Astana
+KE;Kenya;Nairobi;Nairobi
+XK;Kosovo;Pristina;Pristina, Prishtina, Prishtinë, Приштина, Priština, Prishtina
+LV;Latvia;Riga;R[i]ga
+LB;Lebanon;Beirut;Beir[u]t, Bayr[ū]t, Beyrouth
+LY;Libya;Tripoli;Tripoli, Ṭar[ā]bulus, طرابلس
+LI;Liechtenstein;Vaduz;Vaduz
+LT;Lithuania;Vilnius;Vilnius
+US-LA;Louisiana;Baton Rouge;B[a]ton Rouge
+US-LA;Louisiana;New Orleans;New Orleans, La Nouvelle Orl[é]ans
+LU;Luxembourg;Luxembourg;Luxembourg, Lëtzebuerg, Luxemburg
+MK;Macedonia;Skopje;Skopje, Скопје
+US-ME;Maine;Portland (Maine);Portland.+Maine
+MY;Malaysia;Kuala Lumpur;Kuala Lumpur
+MT;Malta;Valletta;Valletta
+US-MD;Maryland;Annapolis;Annapolis
+US-MD;Maryland;Baltimore;Baltimore
+US-MA;Massachusetts;Boston;Boston
+MX;Mexico;Guadalajara;Guadalajara
+MX;Mexico;Mexico City;M[e]xi[ck]o City, City of M[e]xi[ck]o, Ciudad de México, CMDX
+MX;Mexico;Monterrey;Monterrey
+MX;Mexico;Tijuana;Tijuana
+US-MI;Michigan;Detroit;Detroit
+US-MI;Michigan;Lansing;Lansing
+US-MN;Minnesota;Minneapolis;Minneapolis
+US-MN;Minnesota;Saint Paul;Saint Paul
+US-MO;Missouri;Jefferson City;Jefferson City
+US-MO;Missouri;Kansas City;Kansas City
+MD;Moldova;Kishinev;Kishinev, Chi[ș]in[ă]u, Kishinyov, Кишинёв
+MD;Moldova;Tiraspol;Tiraspol, Тирасполь, Тираспіль
+MC;Monaco;Monaco;Monaco
+ME;Montenegro;Podgorica;Podgorica, Titograd, Подгорица, Титоград
+MA;Morocco;Casablanca;Casablanca, Kaẓa, الدار البيضاء
+MA;Morocco;Marrakech;Marrakech, Murrākuš
+MZ;Mozambique;Maputo;Maputo, Louren[ç]o Marques
+MM;Myanmar;Mandalay;Mandalay
+MM;Myanmar;Yangon;Yangon, Rangoon, ရန်ကုန်
+NP;Nepal;Kathmandu;Kathmandu, काठमाडौं
+NL;Netherlands;Amsterdam;Amsterdam
+NL;Netherlands;Eindhoven;Eindhoven
+NL;Netherlands;Rotterdam;Rotterdam
+US-NV;Nevada;Carson City;Carson City
+US-NV;Nevada;Las Vegas;(Las )?Vegas
+US-NM;New Mexico;Santa Fe;Santa F[eé]
+US-NY;New York;Bronx;Bronx
+US-NY;New York;Brooklyn;Brooklyn
+US-NY;New York;Manhattan;Manhattan
+US-NY;New York;Manhattan;Manhattan
+US-NY;New York;New York City;New York City, (City of )?New York, NYC
+US-NY;New York;Queens;Queens
+US-NY;New York;Staten Island;Staten Island
+NZ;New Zealand;Auckland;Auckland, T[ā]maki makau rau
+NI;Nicaragua;Managua;Managua
+NG;Nigeria;Abuja;Abuja
+NG;Nigeria;Ibadan;[I]b[a]d[a]n
+NG;Nigeria;Kano;Kano
+NG;Nigeria;Lagos;Lagos, Èkó
+US-NC;North Carolina;Raleigh;Raleigh
+KP;North Korea;Pyongyang;Pyongyang, 평양시
+NO;Norway;Oslo;Oslo
+US-OH;Ohio;Cincinnati;Cincinnati
+US-OH;Ohio;Cleveland;Cleveland
+US-OK;Oklahoma;Oklahoma City;Oklahoma City
+US-OK;Oklahoma;Tulsa;Tulsa
+US-OR;Oregon;Portland (Oregon);Portland
+PK;Pakistan;Faisalabad;Faisalabad, Lyallpur, فیصل آباد‎
+PK;Pakistan;Gujranwala;Gujranwala, گوجرانوالا‎
+PK;Pakistan;Islamabad;Isl[a]m[a]b[a]d, اسلام آباد‎
+PK;Pakistan;Karachi;Karachi, Karācī, ڪراچي‎
+PK;Pakistan;Lahore;Lahore, لہور‎, لاہور‎
+PK;Pakistan;Peshawar;Peshawar, پېښور ,پشاور ,پشور
+PK;Pakistan;Rawalpindi;Rawalpindi, Pindi, راولپنڈی, پنڈی‎
+PS;Palestine;Bethlehem;Bethlehem, Bei?t L[ae]he?m, בֵּית לֶחֶם‎, بيت لحم
+US-PA;Pennsylvania;Harrisburg;Harrisburg, Harrisbarrig
+US-PA;Pennsylvania;Philadelphia;Philadelphia, Pennsylvania
+US-PA;Pennsylvania;Pittsburgh;Pittsburgh
+PE;Peru;Cusco;Cu[sz]co
+PE;Peru;Lima;Lima
+PH;Philippines;Caloocan;Caloocan City
+PH;Philippines;Davao City;Davao City, Dakbayan sa Dabaw, Lungsod ng Dabaw
+PH;Philippines;Manila;Manila, Maynilà
+PH;Philippines;Quezon City;Quezon City, Lungsod Quezon, Ciudad Quezón, Kyusi
+PL;Poland;Warsaw;Warsaw, Warszawa
+PT;Portugal;Lisbon;Lisbo[na]
+RO;Romania;Bucharest;Bucharest, București
+RU;Russia;Krasnodar;Krasnodar, Краснода́р
+RU;Russia;Moscow;Moscow, Moskva, Moskau, Москва́
+RU;Russia;Nizhny Novgorod;Nizhny Novgorod, Ни́жний Но́вгород, Gorky, Горький
+RU;Russia;Novosibirsk;Novosibirsk, Новосибирск
+RU;Russia;Omsk;Omsk, Омск
+RU;Russia;Rostov;Rostov, Rostofa, Ростов
+RU;Russia;Rostov on Don;Rostov on Don, Rostov na Donu, Ростов на Дону
+RU;Russia;Saint Petersburg;Saint Petersburg, Sankt Peterburg, Санкт-Петербу́рг
+RU;Russia;Sochi;Sochi, Сочи
+RU;Russia;Yekaterinburg;Yekaterinburg, Ekaterinburg, Екатеринбу́рг
+SM;San Marino;San Marino;San Marino
+SA;Saudi Arabia;Al Khobar;(Al )?Khobar
+SA;Saudi Arabia;Jeddah;J[ei]ddah?, جدة‎‎
+SA;Saudi Arabia;Mecca;Mecca, [MB]akkah, مكة المكرمة
+SA;Saudi Arabia;Riyadh;Riyadh, الرياض
+GB-SCT;Scotland;Edinburgh;Edinburgh, Dùn Èideann
+GB-SCT;Scotland;Glasgow;Glasgow, Glesga, Glaschu
+SN;Senegal;Dakar;Dakar
+RS;Serbia;Belgrade;Belgrade, Beograd, Београд
+SG;Singapore;Singapore;Singapore
+SK;Slovakia;Bratislava;Bratislava, Pre(ß|ss)burg, Pozsony
+SI;Slovenia;Ljubljana;Ljubljana
+ZA;South Africa;Cape Town;Cape Town, Kaapstad, iKapa
+ZA;South Africa;Durban;Durban, eThekwini
+ZA;South Africa;Ekurhuleni;Ekurhuleni
+ZA;South Africa;Johannesburg;Johannesburg, Joburg, Egoli
+KR;South Korea;Busan;[BP]usan, 부산시
+KR;South Korea;Daegu;[DT]aegu
+KR;South Korea;Daejeon;Daejeon, 대전시
+KR;South Korea;Incheon;Incheon, Inchŏn, 인천시
+KR;South Korea;Kwangju;Kwangju, 광주시
+KR;South Korea;Seoul;Seoul, 서울市
+KR;South Korea;Ulsan;Ulsan, 울산시
+ES;Spain;Barcelona;Barcelona
+ES;Spain;Granada;Granada
+ES;Spain;Madrid;Madrid
+ES;Spain;Valencia;Val[e]ncia
+SD;Sudan;Khartoum;Khartoum, al-Kharṭūm, الخرطوم
+SE;Sweden;Stockholm;Stockholm
+CH;Switzerland;Bern;Bern[ea], Bernese, Bärn
+CH;Switzerland;Geneva;Geneva, Genèv[ea], Genf, G[ie]nevra, Ženeva
+TW;Taiwan;Kaohsiung;Kaohsiung City, Takao, Takow, Takau, 高雄市
+TW;Taiwan;New Taipei City;New Taipei City, 新北市
+TW;Taiwan;Taichung;Taichung City, Táizhōng Shì, 臺中市
+TW;Taiwan;Taipei City;Taipei City, Taipeh-fu, Taihoku
+TZ;Tanzania;Dar es Salaam;D[a]r [ea]s Sal[a]a?m, Mzizima
+US-TN;Tennessee;Memphis;Memphis
+US-TN;Tennessee;Nashville;Nashville
+US-TX;Texas;Dallas;Dallas
+US-TX;Texas;El Paso;El Paso
+US-TX;Texas;Houston;Houston
+US-TX;Texas;San Antonio;San Antonio
+TH;Thailand;Bangkok;Bangkok, Krung Thep, กรุงเทพมหานคร
+TH;Thailand;Pattaya;Ph?atth?aya, พัทยา
+CD;The Democratic Republic of the Congo;Brazzaville;Brazzaville
+CD;The Democratic Republic of the Congo;Kinshasa;Kinshasa, Ville de Kinshasa, Léopoldville, Leopoldstad
+TN;Tunisia;Tunis;Tunis, تونس
+TR;Turkey;Ankara;Ankara, Ancyra
+TR;Turkey;Istanbul;[I]stanbul, Constantinople, Byzantium
+TR;Turkey;İzmir;[İ]zmir
+UG;Uganda;Kampala;Kampala
+UA;Ukraine;Kharkiv;Khark[io]v, Ха́рків, Ха́рьков
+UA;Ukraine;Kiev;K[iy]ev, Kyiv, Kyjev, Київ, Киев
+UA;Ukraine;Odessa;Odess?a, Одесс?а
+AE;United Arab Emirates;Abu Dhabi;Ab[u] Dh?ab[i], أبوظبي
+AE;United Arab Emirates;Dubai;Dubai, Dubayy, دبي
+AE;United Arab Emirates;Ras Al Khaimah;Ra'?s Al Kha[iy]mah
+UY;Uruguay;Montevideo;Montevideo
+US-UT;Utah;Salt Lake City;Salt Lake City
+UZ;Uzbekistan;Tashkent;T[ao]shkent, Ta[š]kent, Тошкент
+VE;Venezuela;Caracas;Santiago de León de Caracas, Caracas
+VE;Venezuela;Maracaibo;Maracaibo
+VN;Vietnam;Hanoi;Hanoi, H[à] N[ộ]i
+VN;Vietnam;Ho Chi Minh City;Ho Chi Minh City, Thành phố Hồ Chí Minh, Saig[o]n, S[à]i G[ò]n
+VN;Vietnam;Saigon;Saigon, S[à]i G[ò]n
+GB-WLS;Wales;Cardiff;Cardiff, Caerdydd
+US-WA;Washington;Seatle;Seatle
+US-WA;Washington;Washington;Washington
+US-WI;Wisconsin;Milwaukee;Milwaukee
+YE;Yemen;Sana'a;Sana'?a, صٓنْعٓاء
+ZM;Zambia;Lusaka;Lusaka, Mwalusaka
+ZW;Zimbabwe;Bulawayo;Bulawayo, koBulawayo
+ZW;Zimbabwe;Harare;Harare, Salisbury
