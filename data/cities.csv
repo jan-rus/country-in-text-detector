@@ -11,16 +11,25 @@ AR;Argentina;Córdoba;C[ó]rdoba
 AR;Argentina;Rosario;Rosario
 AR;Argentina;San Juan;San Juan
 US-AZ;Arizona;Phoenix;Phoenix
-US-AZ;Arizona;Scottsdale;Scottsdale.{1,5}(Arizona|AZ)
+US-AZ;Arizona;Scottsdale;Scottsdale.{1,5}(Arizona|AZ), Scottsdale
+US-AZ;Arizona;Tucson;Tucson
+US-AR;Arkansas;Austin;Austin.{1,5}(Arkansas|AR)
 US-AR;Arkansas;Little Rock;Little Rock
+US-AR;Arkansas;Portland;Portland.{1,5}(Arkansas|AR)
 AM;Armenia;Yerevan;Y?erevan, Երևան
 AU;Australia;Adelaide;Adelaide
+AU;Australia;Austin;Austin.{1,5}(Australia|AU)
 AU;Australia;Brisbane;Brisbane
 AU;Australia;Canberra;Canberra
 AU;Australia;Melbourne;Melbourne
+AU;Australia;Newcastle;Newcastle.{1,5}(Australia|AU|New South Wales)
 AU;Australia;Perth;Perth
-AU;Australia;Scottsdale;Scottsdale.{1,5}(Tasmania|AU|TAS)
+AU;Australia;Queensland;Queensland, QLD
+AU;Australia;Scottsdale;Scottsdale.{1,5}(Tasmania|TAS|Australia|AU|Reserve)
 AU;Australia;Sydney;Sydney
+AT;Austria;Graz;Graz
+AT;Austria;Innsbruck;Innsbruck
+AT;Austria;Linz;Linz, Linec
 AT;Austria;Salzburg;Salzburg, S[å]izburg
 AT;Austria;Vienna;Vídeň, Wien, Vienna
 AZ;Azerbaijan;Baku;Baku, Bak[ı]
@@ -37,6 +46,7 @@ BR;Brazil;Campinas;Campinas
 BR;Brazil;Curitiba;Curitiba
 BR;Brazil;Florianópolis;Florian[ó]polis
 BR;Brazil;Fortaleza;Fortaleza
+BR;Brazil;Goiânia;Goi[â]nia
 BR;Brazil;Porto Alegre;Porto Alegre
 BR;Brazil;Recife;Recife
 BR;Brazil;Rio de Janeiro;Rio( de Janeiro)?
@@ -47,6 +57,7 @@ US-CA;California;Beverly Hills;Beverly Hills
 US-CA;California;Huntington Beach;Huntington Beach
 US-CA;California;Los Angeles;Los [A]ngeles
 US-CA;California;Oakland;Oakland
+US-CA;California;Norwalk;Norwalk.{1,5}(California|CA)
 US-CA;California;Palm Springs;Palm Springs
 US-CA;California;Sacramento;Sacramento
 US-CA;California;San Diego;San Diego
@@ -57,9 +68,13 @@ US-CA;California;Santa Monica;Santa Monica
 KH;Cambodia;Phnom Penh;Phnom Penh, Krong Chaktomuk
 CM;Cameroon;Douala;Do?uala
 CM;Cameroon;Yaoundé;Yaound[é], Jaunde
+CA;Canada;Austin;Austin.{1,5}(Canada|CA|Manitoba|Ontarion|Quebec|Island)
 CA;Canada;Calgary;Calgary
 CA;Canada;Montréal;Montr[e]al
 CA;Canada;Ottawa;Ottawa
+CA;Canada;Portland;Portland.{1,5}(Canada|CA|Ontarion)
+CA;Canada;Portland Island;Portland Island
+CA;Canada;Portland Inlet;Portland Inlet
 CA;Canada;Toronto;Toronto
 CA;Canada;Vancouver;Vancouver
 CA;Canada;Winnipeg;Winnipeg
@@ -106,14 +121,20 @@ CO;Colombia;Bogotá;Bogot[á]
 CO;Colombia;Cali;(Santiago de )?Cali
 CO;Colombia;Medellín;Medell[i]n
 US-CO;Colorado;Aspen;Aspen
+US-CO;Colorado;Austin;Austin.{1,5}(Colorado|CO)
 US-CO;Colorado;Denver;Denver
+US-CO;Colorado;Portland;Portland.{1,5}(Colorado|CO)
 US-CT;Connecticut;Hartford;Hartford
+US-CT;Connecticut;Norwalk;Norwalk.{1,5}(Connecticut|CT)
+US-CT;Connecticut;Portland;Portland.{1,5}(Connecticut|CT)
 HR;Croatia;Zagreb;Zagreb
 CU;Cuba;Havana;Havana, La Habana
 CY;Cyprus;Nicosia;Nicosia, Λευκωσία, Lefkoşa
 CZ;Czech Republic;Brno;Brno
 CZ;Czech Republic;Karlovy Vary;Karlovy Vary
-CZ;Czech Republic;Ostrava;Ostrava
+CZ;Czech Republic;Liberec;Liberec
+CZ;Czech Republic;Olomouc;Olomouc[ei]?
+CZ;Czech Republic;Ostrava;Ostrav[aey]
 CZ;Czech Republic;Pilsen;Pi?l[sz]e[n]
 CZ;Czech Republic;Prague;Prague, Pra(ha|hy|ze), Prag
 DK;Denmark;Copenhagen;Copenhagen, København, Hafnia
@@ -125,16 +146,19 @@ EG;Egypt;Cairo;Cairo, Kahire, K[a]hir, Al-Qāhiraha, القاهرة
 EG;Egypt;Giza;G[i]zah?, الجيزة
 SV;El Salvador;San Salvador;San Salv[a]dor, El Salv[a]dor
 GB-ENG;England;Birmingham;Birmingham
-GB-ENG;England;Bristol;Bristol
+GB-ENG;England;Brighton;Brighton
 GB-ENG;England;Bristol;Bristol
 GB-ENG;England;Cambridge;Cambridge
 GB-ENG;England;Canterbury;Canterbury
 GB-ENG;England;Dover;Dover
+GB-ENG;England;Isle of Portland;Isle of Portland
 GB-ENG;England;Leeds;Leeds
+GB-ENG;England;Leicester;Leicester
 GB-ENG;England;Liverpool;Liverpool
 GB-ENG;England;London;London
 GB-ENG;England;Luton;Luton
 GB-ENG;England;Manchester;Manchester
+GB-ENG;England;Newcastle;Newcastle.{1,5}(England|ENG|GB|upon Tyne)
 GB-ENG;England;Northampton;Northampton
 GB-ENG;England;Norwich;Norwich
 GB-ENG;England;Nottingham;Nottingham
@@ -145,12 +169,20 @@ EE;Estonia;Tallinn;Tallinn
 ET;Ethiopia;Addis Ababa;Addis Ab[a]ba, Addis Abeba, Finfinne, አዲስ አበባ
 FI;Finland;Helsinki;Helsinki, Helsingfors, Helsingin
 US-FL;Florida;Miami;Miami
+US-FL;Florida;Orlando;Orlando
 US-FL;Florida;Palm Beach;Palm Beach
 US-FL;Florida;Tallahassee;Tallahassee
+US-FL;Florida;Tampa;Tampa
+FR;France;Calais;Calais, Calés, Kales
 FR;France;Cannes;Cannes, Canas
 FR;France;Lyon;Li?yon
+FR;France;Marseille;Marseille, Marselha
+FR;France;Nantes;Nantes,Na(un)?ntt?
 FR;France;Paris;Paris
 FR;France;Saint Tropez;(St|Sai?nt?) Trou?p[e]z
+FR;France;Strasbourg;Strasbourg, Strossburi, Stra(ß|ss)burg
+FR;France;Toulouse;Toulouse, Tolosa
+FR;France;Vaucluse;Vauclus[ea]
 FR;France;Verdun;Verdun
 FR;France;Versailles;Versailles
 GE;Georgia;Atlanta;Atlanta
@@ -172,9 +204,17 @@ GT;Guatemala;Guatemala City;Guatemala City, Ciudad de Guatemala, Guate
 US-HI;Hawaii;Honolulu;Honolulu
 VA;Holy See (Vatican City State);Vatican City;Holy See, Vatican City, Civitas Vaticana, Citt[à] del Vaticano, Vati[ck][a]n, Vatikanstadt
 HK;Hong Kong;Hong Kong;Hong Kong, 香港
+HU;Hungary;Algyő;Algy[ő]
 HU;Hungary;Budapest;Budapest
+HU;Hungary;Bükkszentlászló;B[ü]kkszentl[á]szl[ó]
+HU;Hungary;Debrecen;Debrecen
+HU;Hungary;Miskolc;Miskolc, Mischkolz, Miškovec, Mi[ș]col[ț]
+IS;Iceland;Akureyri;Akureyri, Akureyrarkaupstaður
+IS;Iceland;Keflavík;Keflav[í]k
+IS;Iceland;Kópavogur;Kópavogur, Kópavogsbær
 IS;Iceland;Reykjavík;Reykjav[í]k
 US-ID;Idaho;Boise;Boise
+US-IL;Illinois;Austin;Austin.{1,5}(Illinois|IL)
 US-IL;Illinois;Chicago;Chicago
 IN;India;Ahmedabad;Ahmedabad, Amdavad, Karnavati, अहमदआबाद
 IN;India;Bengaluru;Bengaluru, Bangalore
@@ -196,8 +236,11 @@ IN;India;Surat;Surat, Suryapur
 IN;India;Vadodara;Vadodara, Baroda
 IN;India;Vijayawada;Vijayawada, Bejjamwada, Bezawada, Rajendracholapuram, Vijayavatika
 IN;India;Visakhapatnam;Visakhapatnam, Vizag, Vizagapatam, Waltair
+US-IN;Indiana;Austin;Austin.{1,5}(Indiana|IN)
 US-IN;Indiana;Indianapolis;Indianapolis
 ID;Indonesia;Bandung;Bandung, Stad Bandoeng, Kota Bandung
+ID;Indonesia;Bekasi;(Kota )?Bekasi
+ID;Indonesia;Bogor;Bogor, Buitenzorg
 ID;Indonesia;Jakarta;Jakarta
 ID;Indonesia;Makassar;Ma[kc]assar
 ID;Indonesia;Malang;Malang
@@ -206,6 +249,7 @@ ID;Indonesia;Palembang;Palembang
 ID;Indonesia;Semarang;S[ea]marang
 ID;Indonesia;Surabaya;Surabaya, Soeraba[ij]a
 US-IA;Iowa;Des Moines;Des Moines
+US-IA;Iowa;Norwalk;Norwalk.{1,5}(Iowa|IA)
 IR;Iran;Isfahan;[IE]sfahan, Esfah[ā]n, Ispahan, اصفهان
 IR;Iran;Karaj;Karaj, کرج
 IR;Iran;Mashhad;Mashhad, Mašhad
@@ -214,14 +258,19 @@ IR;Iran;Tabriz;Tabriz, T[ə]briz, تبریز
 IR;Iran;Tehran;Tehr[a]n, تهران
 IQ;Iraq;Baghdad;Baghdad, Bagd[a]d, بغداد
 IQ;Iraq;Basra;Basra, al-Baṣrah, البصرة
+IQ;Iraq;Mosul;M[ou]sul, الموصل
 IE;Ireland;Belfast;Belfast, Béal Feirste
 IE;Ireland;Dublin;Dublin, Baile Átha Cliath
 IL;Israel;Jerusalem;Jerusalem, Yerushalayim, ירושלים, القُدس
 IL;Israel;Nazareth;Nazareth, Natzrat, נָצְרַת‎, النَّاصِرَة
 IL;Israel;Tel Aviv;Tel Aviv, תל אביב-יפו, تل أَبيب-يافا
 IT;Italy;Florence;Florence, Firenze, Florencie
+IT;Italy;Genoa;Genov?a, Genua
 IT;Italy;Milan;Mil[aá]no?
+IT;Italy;Naples;Naples, Napoli, Napule
 IT;Italy;Rome;R[o]m[ea]
+IT;Italy;Turin;Turin, (Città di )?Torino
+IT;Italy;Palermo;(Città di )?Palerm[ou]
 IT;Italy;Venice;Venice, Vene[zs]ia
 CI;Ivory Coast;Abidjan;Abidjan
 JP;Japan;Fukuoka;Fukuoka, Fukuoka-shi, 福岡市
@@ -239,6 +288,7 @@ JO;Jordan;Amman;Amman, عمّان
 US-KS;Kansas;Topeka;Topeka
 KZ;Kazakhstan;Almaty;Almaty, Alma Ata Алматы, Almatı
 KZ;Kazakhstan;Astana;Astana
+US-KY;Kentucky;Austin;Austin.{1,5}(Kentucky|KY)
 KE;Kenya;Nairobi;Nairobi
 XK;Kosovo;Pristina;Pristina, Prishtina, Prishtinë, Приштина, Priština, Prishtina
 LV;Latvia;Riga;R[i]ga
@@ -251,6 +301,7 @@ US-LA;Louisiana;New Orleans;New Orleans, La Nouvelle Orl[é]ans
 LU;Luxembourg;Luxembourg;Luxembourg, Lëtzebuerg, Luxemburg
 MK;Macedonia;Skopje;Skopje, Скопје
 US-ME;Maine;Portland;Portland.{1,5}(Maine|ME)
+MY;Malaysia;Kota Kinabalu;Kota Kinabalu, Jesselton, کوتا کينابالو, 亚庇, 亞庇
 MY;Malaysia;Kuala Lumpur;Kuala Lumpur
 MT;Malta;Valletta;Valletta
 US-MD;Maryland;Annapolis;Annapolis
@@ -262,8 +313,11 @@ MX;Mexico;Monterrey;Monterrey
 MX;Mexico;Tijuana;Tijuana
 US-MI;Michigan;Detroit;Detroit
 US-MI;Michigan;Lansing;Lansing
+US-MI;Michigan;Norwalk;Norwalk.{1,5}(Michigan|MI)
+US-MN;Minnesota;Austin;Austin.{1,5}(Minnesota|MN)
 US-MN;Minnesota;Minneapolis;Minneapolis
 US-MN;Minnesota;Saint Paul;Saint Paul
+US-MO;Missouri;Austin;Austin.{1,5}(Missoury|MO)
 US-MO;Missouri;Jefferson City;Jefferson City
 US-MO;Missouri;Kansas City;Kansas City
 MD;Moldova;Kishinev;Kishinev, Chi[ș]in[ă]u, Kishinyov, Кишинёв
@@ -280,6 +334,7 @@ NL;Netherlands;Amsterdam;Amsterdam
 NL;Netherlands;Hague;Hague, (Den )?Haag
 NL;Netherlands;Eindhoven;Eindhoven
 NL;Netherlands;Rotterdam;Rotterdam
+US-NV;Nevada;Austin;Austin.{1,5}(Nevada|NV)
 US-NV;Nevada;Carson City;Carson City
 US-NV;Nevada;Las Vegas;(Las )?Vegas
 US-NJ;New Jersey;Atlantic City;Atlantic City
@@ -292,6 +347,7 @@ US-NY;New York;New York City;New York City, (City of )?New York, NYC
 US-NY;New York;Queens;Queens
 US-NY;New York;Staten Island;Staten Island
 NZ;New Zealand;Auckland;Auckland, T[ā]maki makau rau
+NZ;New Zealand;Portland;Portland.{1,5}(New Zealand|NZ)
 NI;Nicaragua;Managua;Managua
 NG;Nigeria;Abuja;Abuja
 NG;Nigeria;Ibadan;[I]b[a]d[a]n
@@ -300,11 +356,15 @@ NG;Nigeria;Lagos;Lagos, Èkó
 US-NC;North Carolina;Raleigh;Raleigh
 KP;North Korea;Pyongyang;Pyongyang, 평양시
 NO;Norway;Oslo;Oslo
+US-OH;Ohio;Austin;Austin.{1,5}(Ohio|OH)
 US-OH;Ohio;Cincinnati;Cincinnati
 US-OH;Ohio;Cleveland;Cleveland
+US-OH;Ohio;Norwalk;Norwalk.{1,5}(Ohio|OH)
 US-OK;Oklahoma;Oklahoma City;Oklahoma City
 US-OK;Oklahoma;Tulsa;Tulsa
-US-OR;Oregon;Portland;Portland.{1,5}(Oregon|OR)
+OM;Oman;Muscat;Muscat, Masqa[ṭ], مسقط
+US-OR;Oregon;Austin;Austin.{1,5}(Oregon|OR)
+US-OR;Oregon;Portland;Portland.{1,5}(Oregon|OR), Portland
 PK;Pakistan;Faisalabad;Faisalabad, Lyallpur, فیصل آباد‎
 PK;Pakistan;Gujranwala;Gujranwala, گوجرانوالا‎
 PK;Pakistan;Islamabad;Isl[a]m[a]b[a]d, اسلام آباد‎
@@ -322,9 +382,21 @@ PH;Philippines;Caloocan;Caloocan City
 PH;Philippines;Davao City;Davao City, Dakbayan sa Dabaw, Lungsod ng Dabaw
 PH;Philippines;Manila;Manila, Maynilà
 PH;Philippines;Quezon City;Quezon City, Lungsod Quezon, Ciudad Quezón, Kyusi
+PL;Poland;Gdańsk;Gda[ń]sk, Danzig
+PL;Poland;Kraków;Krak[o]w, Cracow
+PL;Poland;Łódź;[Ł][ó]d[ź]h?
+PL;Poland;Poznań;Pozna[ń], Posen
 PL;Poland;Warsaw;Warsaw, Warszawa
+PL;Poland;Wrocław;Wroc[ł]aw, Breslau, Vratislav
+PT;Portugal;Amadora;Amadora, Porcalhota
+PT;Portugal;Braga;Braga
+PT;Portugal;Coimbra;Coimbra
 PT;Portugal;Lisbon;Lisbo[na]
-RO;Romania;Bucharest;Bucharest, București
+PT;Portugal;Porto;O?porto
+RO;Romania;Bucharest;Bucharest, Bucure[ș]ti
+RO;Romania;Cluj-Napoca;Cluj(-Napoca)?
+RO;Romania;Vrancea;Vrancea
+RU;Russia;Chelyabinsk;Chelyabinsk, Челя́бинск
 RU;Russia;Krasnodar;Krasnodar, Краснода́р
 RU;Russia;Moscow;Moscow, Moskva, Moskau, Москва́
 RU;Russia;Nizhny Novgorod;Nizhny Novgorod, Ни́жний Но́вгород, Gorky, Горький
@@ -361,7 +433,11 @@ KR;South Korea;Ulsan;Ulsan, 울산시
 ES;Spain;Barcelona;Barcell?ona
 ES;Spain;Granada;Granada
 ES;Spain;Madrid;Madrid
+ES;Spain;Málaga;M[á]laga
+ES;Spain;Murcia;Murcia
+ES;Spain;Seville;Sevill[ea]
 ES;Spain;Valencia;Val[e]ncia
+ES;Spain;Zaragoza;Zaragoza, Saragossa
 SD;Sudan;Khartoum;Khartoum, al-Kharṭūm, الخرطوم
 SE;Sweden;Gothenburg;Gothenburg, G[ö]teborg
 SE;Sweden;Stockholm;Stockholm
@@ -376,7 +452,7 @@ TW;Taiwan;Taipei City;Taipei City, Taipeh-fu, Taihoku
 TZ;Tanzania;Dar es Salaam;D[a]r [ea]s Sal[a]a?m, Mzizima
 US-TN;Tennessee;Memphis;Memphis
 US-TN;Tennessee;Nashville;Nashville
-US-TX;Texas;Austin;Austin.{1,5}(Texas|TX)
+US-TX;Texas;Austin;Austin.{1,5}(Texas|TX), Austin
 US-TX;Texas;Dallas;Dallas
 US-TX;Texas;El Paso;El Paso
 US-TX;Texas;Houston;Houston
@@ -384,6 +460,7 @@ US-TX;Texas;San Antonio;San Antonio
 TH;Thailand;Bangkok;Bangkok, Krung Thep, กรุงเทพมหานคร
 TH;Thailand;Chiang Mai;Chiang Mai, Chiengmai, Chiangmai, เชียงใหม่
 TH;Thailand;Pattaya;Ph?atth?aya, พัทยา
+TH;Thailand;Phuket;Phuket, Talang, Tanjung Salang, ภูเก็ต
 CD;The Democratic Republic of the Congo;Brazzaville;Brazzaville
 CD;The Democratic Republic of the Congo;Kinshasa;Kinshasa, Ville de Kinshasa, Léopoldville, Leopoldstad
 TN;Tunisia;Tunis;Tunis, تونس
@@ -410,6 +487,7 @@ GB-WLS;Wales;Cardiff;Cardiff, Caerdydd
 US-WA;Washington;Seatle;Seatle
 US-WA;Washington;Washington;Washington
 US-WI;Wisconsin;Milwaukee;Milwaukee
+US-WI;Wisconsin;Norwalk;Norwalk.{1,5}(Wisconsin|WI)
 YE;Yemen;Sana'a;Sana'?a, صٓنْعٓاء
 ZM;Zambia;Lusaka;Lusaka, Mwalusaka
 ZW;Zimbabwe;Bulawayo;Bulawayo, koBulawayo
