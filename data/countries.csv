@@ -12,7 +12,7 @@ AQ;Antarctica;Antar[ck]ti[ck]a, Atartique, Antarktis, Ant[á]rtida
 AR;Argentina;Argentin[ae], Argentinien
 AS;American Samoa;Ame[rl]ican? S[a]moa
 AT;Austria;Austria, Autriche, [Ö]sterreich, Rakousko
-AU;Australia;Austr[a]li[ae]n?, Tasmania
+AU;Australia;Austr[a]li[ae], Australien, Tasmania
 AW;Aruba;Aruba
 AZ;Azerbaijan;Azerbaijan, [Á]zerbajd[ž][á]n, Azǝrbaycan
 BA;Bosnia and Herzegovina;Bosni?a [&] Her[zc]egovina, Bosni?a, Her[zc]egovina, Bosna i Hercegovina, Боснa и Херцеговина
@@ -38,7 +38,7 @@ BZ;Belize;Beli[zc]e, British Honduras
 CA;Canada;Canad[a], Kanada
 CC;Cocos (Keeling) Islands;(Cocos|Keeling) Islands?, Kokosinseln, (Islas|[I]les) Cocos
 CD;The Democratic Republic of the Congo;(Democratic)? Republic of (the )?[CK]ongo, Zaire, [CK]ongo Kinshasa
-CF;Central African Republic;Central African Republic, CAR, Ködörösêse tî Bêafrîka, République centrafricaine, Centrafrique
+CF;Central African Republic;Central African Republic, Ködörösêse tî Bêafrîka, République centrafricaine, Centrafrique
 CG;Congo;[CK]ongo Brazzaville, [CK]ongo
 CH;Switzerland;Switzerland, [Š]v[í]carsko, Swiss, Suíço, Schweiz, Svizzera, Suisse, Svizra
 CI;Ivory Coast;Ivory Coast, C[ô]te d'?Ivoire, Costa de Marfil
@@ -65,7 +65,7 @@ EE;Estonia;Estoni[ae], Est(onsko|land), Eesti
 EG;Egypt;[E]gypte?, M[ia]ṣr, Egipto, Ägypten
 EH;Western Sahara;Western Sahara, Sahara Occidental
 ER;Eritrea;Eritrea, Érythrée
-ES;Spain;Spain, Испании, Espa[ñ]a, Španělsko, Espagne, Spanien
+ES;Spain;Spain, Испании, Espa[ñ]a, Španělsko, Espagne, Spanien, Canary Islands, Islas Canarias, Mallorca, Majorca, Ibiza, Eivissa
 ET;Ethiopia;[E]th?iop[i][ae], Äthiopien
 FI;Finland;Finn?land(e|ia)?, Finsko, Suomi
 FJ;Fiji Islands;Fiji Islands, Fiji, Fiyi, Fidji, Fidschi
@@ -97,14 +97,14 @@ HN;Honduras;Honduras
 HR;Croatia;Croatia, Hrvatska, Chorvatsko
 HT;Haiti;Ha[i]ti, Ayiti
 HU;Hungary;Hungary, Magyarorsz[á]g, Ma[ď]arsko
-ID;Indonesia;Indon[e]si[ae]
+ID;Indonesia;Indon[e]si[ae], Bali, Pulau Bali, Provinsi Bali
 IE;Ireland;Ireland, [É]ire, Airlann, Irsko
 IL;Israel;Israel [&] the Occupied Territories, I[sz]ra[e]l, יִשְׂרָאֵל‎, إِسْرَائِيل‎‎
-IN;India;Indi[ae], Bhārat Gaṇarājya
+IN;India;India, Bhārat Gaṇarājya
 IO;British Indian Ocean Territory;British Indian Ocean Territory
 IQ;Iraq;[I]r[a][qk], Eraq, al-‘?Ir[ā]q
 IR;Iran;[I]r[a]n, Persia
-IS;Iceland;Iceland, [Í]sland
+IS;Iceland;Iceland, [Í]slandi?
 IT;Italy;Italy, It[a]li[ae], Repubblica italiana
 JM;Jamaica;Jama[ij][ck]a
 JO;Jordan;Jord[a]n(ia|ie|ien)?
@@ -116,7 +116,7 @@ KI;Kiribati;Kiribati
 KM;Comoros;Comor[oea]s
 KN;Saint Kitts and Nevis;Saint Kitts [&] Nevis
 KP;North Korea;(North|Seven[i]) Korea
-KR;South Korea;(South|Jižní) Korea
+KR;South Korea;(South|Jižní) Korea, Korea
 KW;Kuwait;Kuwait
 KY;Cayman Islands;Cayman Islands, Kajmansk[é] Ostrovy
 KZ;Kazakstan;Ka[zs]akhstan, Казахстан, Қазақстан, Qazaqstan
@@ -182,7 +182,7 @@ PY;Paraguay;Paragu[a][yi]
 QA;Qatar;Qatar
 RE;Reunion;R[e]uni[o]n
 RO;Romania;Rom[a]n[i](a|en), Rumunsko
-RU;Russia;Russian Federation, Russ?i[ae], Россия, Rossiya, Rusko
+RU;Russia;Russian Federation, Russ?i[ae], Россия, России, Rossiya, Rusko
 RW;Rwanda;R[wu]anda
 SA;Saudi Arabia;Saudi Arabi[ae]
 SB;Solomon Islands;Solomon Islands

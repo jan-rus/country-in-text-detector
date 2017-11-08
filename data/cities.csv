@@ -11,14 +11,15 @@ AR;Argentina;Córdoba;C[ó]rdoba
 AR;Argentina;Rosario;Rosario
 AR;Argentina;San Juan;San Juan
 US-AZ;Arizona;Phoenix;Phoenix
-US-AZ;Arizona;Scottsdale;Scottsdale
+US-AZ;Arizona;Scottsdale;Scottsdale.{1,5}(Arizona|AZ)
 US-AR;Arkansas;Little Rock;Little Rock
 AM;Armenia;Yerevan;Y?erevan, Երևան
 AU;Australia;Adelaide;Adelaide
 AU;Australia;Brisbane;Brisbane
+AU;Australia;Canberra;Canberra
 AU;Australia;Melbourne;Melbourne
 AU;Australia;Perth;Perth
-AU;Australia;Scottsdale (Tasmania);Scottsdale.+Tasmania
+AU;Australia;Scottsdale;Scottsdale.{1,5}(Tasmania|AU|TAS)
 AU;Australia;Sydney;Sydney
 AT;Austria;Salzburg;Salzburg, S[å]izburg
 AT;Austria;Vienna;Vídeň, Wien, Vienna
@@ -34,6 +35,7 @@ BR;Brazil;Belo Horizonte;Belo Horizonte
 BR;Brazil;Brazilia;Bra[sz][i]l(ia)?
 BR;Brazil;Campinas;Campinas
 BR;Brazil;Curitiba;Curitiba
+BR;Brazil;Florianópolis;Florian[ó]polis
 BR;Brazil;Fortaleza;Fortaleza
 BR;Brazil;Porto Alegre;Porto Alegre
 BR;Brazil;Recife;Recife
@@ -103,6 +105,7 @@ CO;Colombia;Barranquilla;Barranquilla
 CO;Colombia;Bogotá;Bogot[á]
 CO;Colombia;Cali;(Santiago de )?Cali
 CO;Colombia;Medellín;Medell[i]n
+US-CO;Colorado;Aspen;Aspen
 US-CO;Colorado;Denver;Denver
 US-CT;Connecticut;Hartford;Hartford
 HR;Croatia;Zagreb;Zagreb
@@ -133,6 +136,7 @@ GB-ENG;England;London;London
 GB-ENG;England;Luton;Luton
 GB-ENG;England;Manchester;Manchester
 GB-ENG;England;Northampton;Northampton
+GB-ENG;England;Norwich;Norwich
 GB-ENG;England;Nottingham;Nottingham
 GB-ENG;England;Oxford;Oxford
 GB-ENG;England;Plymouth;Plymouth
@@ -212,10 +216,13 @@ IQ;Iraq;Baghdad;Baghdad, Bagd[a]d, بغداد
 IQ;Iraq;Basra;Basra, al-Baṣrah, البصرة
 IE;Ireland;Belfast;Belfast, Béal Feirste
 IE;Ireland;Dublin;Dublin, Baile Átha Cliath
+IL;Israel;Jerusalem;Jerusalem, Yerushalayim, ירושלים, القُدس
+IL;Israel;Nazareth;Nazareth, Natzrat, נָצְרַת‎, النَّاصِرَة
 IL;Israel;Tel Aviv;Tel Aviv, תל אביב-יפו, تل أَبيب-يافا
 IT;Italy;Florence;Florence, Firenze, Florencie
 IT;Italy;Milan;Mil[aá]no?
 IT;Italy;Rome;R[o]m[ea]
+IT;Italy;Venice;Venice, Vene[zs]ia
 CI;Ivory Coast;Abidjan;Abidjan
 JP;Japan;Fukuoka;Fukuoka, Fukuoka-shi, 福岡市
 JP;Japan;Hiroshima;Hiroshima, 広島市
@@ -243,7 +250,7 @@ US-LA;Louisiana;Baton Rouge;B[a]ton Rouge
 US-LA;Louisiana;New Orleans;New Orleans, La Nouvelle Orl[é]ans
 LU;Luxembourg;Luxembourg;Luxembourg, Lëtzebuerg, Luxemburg
 MK;Macedonia;Skopje;Skopje, Скопје
-US-ME;Maine;Portland (Maine);Portland.+Maine
+US-ME;Maine;Portland;Portland.{1,5}(Maine|ME)
 MY;Malaysia;Kuala Lumpur;Kuala Lumpur
 MT;Malta;Valletta;Valletta
 US-MD;Maryland;Annapolis;Annapolis
@@ -270,10 +277,12 @@ MM;Myanmar;Mandalay;Mandalay
 MM;Myanmar;Yangon;Yangon, Rangoon, ရန်ကုန်
 NP;Nepal;Kathmandu;Kathmandu, काठमाडौं
 NL;Netherlands;Amsterdam;Amsterdam
+NL;Netherlands;Hague;Hague, (Den )?Haag
 NL;Netherlands;Eindhoven;Eindhoven
 NL;Netherlands;Rotterdam;Rotterdam
 US-NV;Nevada;Carson City;Carson City
 US-NV;Nevada;Las Vegas;(Las )?Vegas
+US-NJ;New Jersey;Atlantic City;Atlantic City
 US-NM;New Mexico;Santa Fe;Santa F[eé]
 US-NY;New York;Bronx;Bronx
 US-NY;New York;Brooklyn;Brooklyn
@@ -295,7 +304,7 @@ US-OH;Ohio;Cincinnati;Cincinnati
 US-OH;Ohio;Cleveland;Cleveland
 US-OK;Oklahoma;Oklahoma City;Oklahoma City
 US-OK;Oklahoma;Tulsa;Tulsa
-US-OR;Oregon;Portland (Oregon);Portland
+US-OR;Oregon;Portland;Portland.{1,5}(Oregon|OR)
 PK;Pakistan;Faisalabad;Faisalabad, Lyallpur, فیصل آباد‎
 PK;Pakistan;Gujranwala;Gujranwala, گوجرانوالا‎
 PK;Pakistan;Islamabad;Isl[a]m[a]b[a]d, اسلام آباد‎
@@ -349,14 +358,17 @@ KR;South Korea;Incheon;Incheon, Inchŏn, 인천시
 KR;South Korea;Kwangju;Kwangju, 광주시
 KR;South Korea;Seoul;Seoul, 서울市
 KR;South Korea;Ulsan;Ulsan, 울산시
-ES;Spain;Barcelona;Barcelona
+ES;Spain;Barcelona;Barcell?ona
 ES;Spain;Granada;Granada
 ES;Spain;Madrid;Madrid
 ES;Spain;Valencia;Val[e]ncia
 SD;Sudan;Khartoum;Khartoum, al-Kharṭūm, الخرطوم
+SE;Sweden;Gothenburg;Gothenburg, G[ö]teborg
 SE;Sweden;Stockholm;Stockholm
 CH;Switzerland;Bern;Bern[ea], Bernese, Bärn
 CH;Switzerland;Geneva;Geneva, Genèv[ea], Genf, G[ie]nevra, Ženeva
+CH;Switzerland;Zürich;Z[ü]rich
+SY;Syria;Damascus;Damascus, Dimashq, دمشق
 TW;Taiwan;Kaohsiung;Kaohsiung City, Takao, Takow, Takau, 高雄市
 TW;Taiwan;New Taipei City;New Taipei City, 新北市
 TW;Taiwan;Taichung;Taichung City, Táizhōng Shì, 臺中市
@@ -364,11 +376,13 @@ TW;Taiwan;Taipei City;Taipei City, Taipeh-fu, Taihoku
 TZ;Tanzania;Dar es Salaam;D[a]r [ea]s Sal[a]a?m, Mzizima
 US-TN;Tennessee;Memphis;Memphis
 US-TN;Tennessee;Nashville;Nashville
+US-TX;Texas;Austin;Austin.{1,5}(Texas|TX)
 US-TX;Texas;Dallas;Dallas
 US-TX;Texas;El Paso;El Paso
 US-TX;Texas;Houston;Houston
 US-TX;Texas;San Antonio;San Antonio
 TH;Thailand;Bangkok;Bangkok, Krung Thep, กรุงเทพมหานคร
+TH;Thailand;Chiang Mai;Chiang Mai, Chiengmai, Chiangmai, เชียงใหม่
 TH;Thailand;Pattaya;Ph?atth?aya, พัทยา
 CD;The Democratic Republic of the Congo;Brazzaville;Brazzaville
 CD;The Democratic Republic of the Congo;Kinshasa;Kinshasa, Ville de Kinshasa, Léopoldville, Leopoldstad
@@ -391,6 +405,7 @@ VE;Venezuela;Maracaibo;Maracaibo
 VN;Vietnam;Hanoi;Hanoi, H[à] N[ộ]i
 VN;Vietnam;Ho Chi Minh City;Ho Chi Minh City, Thành phố Hồ Chí Minh, Saig[o]n, S[à]i G[ò]n
 VN;Vietnam;Saigon;Saigon, S[à]i G[ò]n
+US-VA;Virginia;Virginia Beach;Virginia Beach
 GB-WLS;Wales;Cardiff;Cardiff, Caerdydd
 US-WA;Washington;Seatle;Seatle
 US-WA;Washington;Washington;Washington
