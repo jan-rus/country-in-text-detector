@@ -26,6 +26,7 @@ function detect(str) {
 	var clean = " " + io.cleanFromSpecials(str);
 	var result = [];
 	for(var i = 0; i < COUNTRIES.length; i++){
+		if(typeof COUNTRIES[i].string_match === "undefined" || COUNTRIES[i].string_match === null){continue;}
 		var matches = clean.match(COUNTRIES[i].string_match);
 		if(!(typeof matches === "undefined" || matches === null)) {
 			matches = matches.map(function(m){return m.substring(1);});
