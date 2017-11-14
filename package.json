@@ -1,6 +1,6 @@
 {
 	"name": "country-in-text-detector",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"author": "Jan Rus <ing.janrus@gmail.com> (https://cz.linkedin.com/in/rusjan)",
 	"description": "Module for detection of countries in given text. Detects countries by international and local name, some of them in more language mutations.",
 	"keywords": [
