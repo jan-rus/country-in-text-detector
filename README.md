@@ -22,23 +22,46 @@ without need of preprocessing.
 You can also find these examples in *examples.js* file.
 
 ```javascript
-var countryDetector = require("country-in-text-detector");
+var countryDetector = require("./index.js");
 
-// detector result is always array of matches (objects)
-var result = []
+// handles countries in text, result is array of matches (objects)
+var result = countryDetector.detect("Hello, I come from Germany!");
+/*
+[
+	{ iso3166: 'DE', name: 'Germany', type: 'country', matches: [ 'Germany' ] }
+]
+*/
 
-// detector handles countries in text
-result = countryDetector.detect("Hello, I come from Germany!"); // DE
+// handles large cities in text
+var cities = countryDetector.detect("I just moved from Austin, TX to NYC.");
+/*
+[
+	{ iso3166: 'US-NY', name: 'New York City', type: 'city', matches: [ 'NYC' ] },
+	{ iso3166: 'US-TX', name: 'Austin', type: 'city', matches: [ 'Austin, TX' ] }
+]
+*/
 
-// detector handles large cities in text
-var cities = countryDetector.detect("I just moved from Austin, TX to NYC."); // US-NY, US-TX
+// handles local/international names
+var local = countryDetector.detect("RU: Я родился в России. EN: I was born in Russia.");
+/*
+[
+	{ iso3166: 'RU', name: 'Russia', type: 'country', matches: [ 'России', 'Russia' ] }
+]
+*/
 
-// detector handles local/international names
-var local = countryDetector.detect("RU: Я родился в России. EN: I was born in Russia."); // RU
+// handles frequent language mutations
+var mutations = countryDetector.detect("FR: J'ai vécu en Italie. EN: I lived in Italy.");
+/*
+[
+	{ iso3166: 'IT', name: 'Italy', type: 'country', matches: [ 'Italie', 'Italy' ] }
+]
+*/
 
-// detector handles frequent language mutations
-var mutations = countryDetector.detect("FR: J'ai vécu en Italie. EN: I lived in Italy."); // IT
-
-// detector handles special characters and emojis surrounding keywords
-var special = countryDetector.detect("Adoro❤️ o 🇧🇷Rio~de~Janeiro💃🏼 !"); // BR
+// handles special characters and emojis
+var special = countryDetector.detect("Adoro❤️ o 🇧🇷Rio~de~Janeiro💃🏼 !");
+/*
+[
+	{ iso3166: 'BR', name: 'Rio de Janeiro', type: 'city', matches: [ 'Rio~de~Janeiro' ] }
+]
+*/
 ```
