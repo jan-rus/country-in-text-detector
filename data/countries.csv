@@ -8,7 +8,7 @@ AL;Albania;Alb[a]ni[ae], Albanien, Shqip[ë]ria?, Shq[iy]pnia?
 AM;Armenia;Arm[e]ni[ae], Armenien, Hayastan, Հայաստան
 AN;Netherlands Antilles;Ne(d|th)erlands? Antilles, Nederlandse Antillen, Antia Hulandes
 AO;Angola;A?ngola
-AQ;Antarctica;Antar[ck]ti[ck]a, Atartique, Antarktis, Ant[á]rtida
+AQ;Antarctica;Antar[ck]ti[ck]a, Antartique, Antarktis, Ant[á]rtida
 AR;Argentina;Argentin[ae], Argentinien
 AS;American Samoa;Ame[rl]ican? S[a]moa
 AT;Austria;Austria, Autriche, [Ö]sterreich, Rakousko
@@ -24,7 +24,7 @@ BG;Bulgaria;Bulgari[ae]n?, Bulharsko, България, Bǎlgariya
 BH;Bahrain;Bah?r[ae]in, al-Baḥrayn, البحرين
 BI;Burundi;Burundi, Republika y'Uburundi
 BJ;Benin;B[e]n[i]n, Dahomey
-BL;St. Bartélemy;Barth[é]lemy, San Bartolomé
+BL;St. Bartélemy;((St.|Saint)? )?Barth[é]lemy, San Bartolomé
 BM;Bermuda;Bermud[aye]s
 BN;Brunei;(Negara)? Brun[e]i Darussalam, Brun[e]i
 BO;Bolivia;Bol[i]vi[ae]n?, Mborivia, Buliwya, Wuliwya
@@ -74,9 +74,9 @@ FM;Federated States of Micronesia;Mi[ck]ron[e]si[ae]n?
 FO;Faroe Islands;Fae?roe Islands, Føroyar, Færøerne
 FR;France;France, French Republic, République française
 GA;Gabon;Gab[o]n, Gabonese Republic, République gabonaise, Gabun
-GB;United Kingdom;United Kingdom, UK, Great Britain, GB
+GB;United Kingdom;United Kingdom, UK, Great Britain, GB, Velká Británie, Británie
 GD;Grenada;Grenad[ae]
-GE;Georgia;G[e]orgi[ae], Sakartvelo, Abkhazia, საქართველო
+GE;Georgia;G[e]orgi[ae].{1,5}EU, G[e]orgi[ae], Gruzie, Sakartvelo, Abkhazia, საქართველო
 GF;French Guiana;French Guiana, Guyane française, Guiana, Guyane
 GH;Ghana;Ghana
 GI;Gibraltar;Gibraltar
@@ -119,7 +119,7 @@ KP;North Korea;(North|Seven[i]) Korea
 KR;South Korea;(South|Jižní) Korea, Korea
 KW;Kuwait;Kuwait
 KY;Cayman Islands;Cayman Islands, Kajmansk[é] Ostrovy
-KZ;Kazakstan;Ka[zs]akhstan, Казахстан, Қазақстан, Qazaqstan
+KZ;Kazakhstan;Ka[zs]akhstan, Казахстан, Қазақстан, Qazaqstan
 LA;Laos;Laos
 LB;Lebanon;L[ei]banon
 LC;Saint Lucia;Saint Lucia
@@ -255,7 +255,7 @@ US-CO;Colorado;[CK]olor[a]do
 US-CT;Connecticut;Connecticut
 US-DE;Delaware;Delaware
 US-FL;Florida;Florida
-US-GA;Georgia;Georgi[ae]
+US-GA;Georgia;Georgia.{1,5}US, state (of )?Georgia, Georgia
 US-HI;Hawaii;Hawaii
 US-ID;Idaho;Idaho
 US-IL;Illinois;Illinois
@@ -277,7 +277,7 @@ US-NV;Nevada;Nevada
 US-NH;New Hampshire;New Hampshire
 US-NJ;New Jersey;New Jersey
 US-NM;New Mexico;New Mexico
-US-NY;New York;New York
+US-NY;New York;state (of )?New York, New York
 US-NC;North Carolina;North Carolina
 US-ND;North Dakota;North Dakota
 US-OH;Ohio;Ohio

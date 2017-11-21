@@ -12,8 +12,8 @@ var result = countryDetector.detect("Hello, I come from Germany!");
 var cities = countryDetector.detect("I just moved from Austin, TX to NYC.");
 /*
 [
-	{ iso3166: 'US-NY', name: 'New York City', type: 'city', matches: [ 'NYC' ] },
-	{ iso3166: 'US-TX', name: 'Austin', type: 'city', matches: [ 'Austin, TX' ] }
+	{ iso3166: 'US-NY', name: 'New York City', countryName: 'New York',  type: 'city', matches: [ 'NYC' ] },
+	{ iso3166: 'US-TX', name: 'Austin', countryName: 'Texas', type: 'city', matches: [ 'Austin, TX' ] }
 ]
 */
 
@@ -37,6 +37,6 @@ var mutations = countryDetector.detect("FR: J'ai vécu en Italie. EN: I lived in
 var special = countryDetector.detect("Adoro❤️ o 🇧🇷Rio~de~Janeiro💃🏼 !");
 /*
 [
-	{ iso3166: 'BR', name: 'Rio de Janeiro', type: 'city', matches: [ 'Rio~de~Janeiro' ] }
+	{ iso3166: 'BR', name: 'Rio de Janeiro', countryName: 'Brazil', type: 'city', matches: [ 'Rio~de~Janeiro' ] }
 ]
 */

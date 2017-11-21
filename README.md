@@ -22,7 +22,7 @@ without need of preprocessing.
 You can also find these examples in *examples.js* file.
 
 ```javascript
-var countryDetector = require("./index.js");
+var countryDetector = require("country-in-text-detector");
 
 // handles countries in text, result is array of matches (objects)
 var result = countryDetector.detect("Hello, I come from Germany!");

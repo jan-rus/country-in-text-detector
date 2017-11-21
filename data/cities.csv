@@ -185,7 +185,7 @@ FR;France;Toulouse;Toulouse, Tolosa
 FR;France;Vaucluse;Vauclus[ea]
 FR;France;Verdun;Verdun
 FR;France;Versailles;Versailles
-GE;Georgia;Atlanta;Atlanta
+US-GA;Georgia;Atlanta;Atlanta
 GE;Georgia;Sukhumi;Sukhumi, Akwa, Sokhumi, Аҟәа, სოხუმი
 GE;Georgia;Tbilisi;Tbilisi, Tiflis, თბილისი
 GE;Georgia;Tskhinvali;Tskhinvali, ცხინვალი, Цхинвал(и)
@@ -343,7 +343,7 @@ US-NY;New York;Bronx;Bronx
 US-NY;New York;Brooklyn;Brooklyn
 US-NY;New York;Manhattan;Manhattan
 US-NY;New York;Manhattan;Manhattan
-US-NY;New York;New York City;New York City, (City of )?New York, NYC
+US-NY;New York;New York City;New York City, City (of )?New York, New York, New York.{1,5}(New York|NY), NYC
 US-NY;New York;Queens;Queens
 US-NY;New York;Staten Island;Staten Island
 NZ;New Zealand;Auckland;Auckland, T[ā]maki makau rau
