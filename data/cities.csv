@@ -40,6 +40,7 @@ BY;Belarus;Minsk;Minsk, Мінск, Минск, Менск
 BE;Belgium;Brussels;Brussels?, Bruxelles
 BO;Bolivia;Santa Cruz de la Sierra;Santa Cruz( de la Sierra)?
 BA;Bosnia and Herzegovina;Sarajevo;Sarajevo, Сарајево
+BH;Bahrain;Manama;Man[a]ma, المنامة
 BR;Brazil;Belo Horizonte;Belo Horizonte
 BR;Brazil;Brazilia;Bra[sz][i]l(ia)?
 BR;Brazil;Campinas;Campinas
@@ -51,6 +52,7 @@ BR;Brazil;Porto Alegre;Porto Alegre
 BR;Brazil;Recife;Recife
 BR;Brazil;Rio de Janeiro;Rio( de Janeiro)?
 BR;Brazil;São Paulo;S[ã]o Paulo
+BG;Bulgaria;Burgas;Burgas, Bourgas, Бургас
 BG;Bulgaria;Sofia;Sofiy?a, София
 BF;Burkina Faso;Ouagadougou;Ouagadougou
 US-CA;California;Beverly Hills;Beverly Hills
@@ -65,6 +67,7 @@ US-CA;California;San Francisco;San Francisco
 US-CA;California;San José;San Jos[e]
 US-CA;California;Santa Barbara;Santa Barbara
 US-CA;California;Santa Monica;Santa Monica
+KH;Cambodia;Siem Reap;Siem Reap, ក្រុងសៀមរាប
 KH;Cambodia;Phnom Penh;Phnom Penh, Krong Chaktomuk
 CM;Cameroon;Douala;Do?uala
 CM;Cameroon;Yaoundé;Yaound[é], Jaunde
@@ -115,6 +118,7 @@ CN;China;Xi'an;Xi'?an, 西安市
 CN;China;Xiamen;Xiamen, Amoy, 厦门市
 CN;China;Zhengzhou;Zhengzhou, 郑州市
 CN;China;Zhongshan;Zhongshan, 中山市
+CN;China;Zhuhai;Zhuhai, 珠海市
 CN;China;Zunyi;Zunyi, 遵义市
 CO;Colombia;Barranquilla;Barranquilla
 CO;Colombia;Bogotá;Bogot[á]
@@ -137,6 +141,7 @@ CZ;Czech Republic;Olomouc;Olomouc[ei]?
 CZ;Czech Republic;Ostrava;Ostrav[aey]
 CZ;Czech Republic;Pilsen;Pi?l[sz]e[n]
 CZ;Czech Republic;Prague;Prague, Pra(ha|hy|ze), Prag
+DO;Dominican Republic;Punta Cana;
 DK;Denmark;Copenhagen;Copenhagen, København, Hafnia
 DK;Denmark;Nuuk;Nuuk, Godth[å]b
 EC;Ecuador;Guayaquil;Santiago de Guayaquil, Guayaquil
@@ -144,6 +149,7 @@ EC;Ecuador;Quito;Quito
 EG;Egypt;Alexandria;Alexandria, الإسكندرية
 EG;Egypt;Cairo;Cairo, Kahire, K[a]hir, Al-Qāhiraha, القاهرة
 EG;Egypt;Giza;G[i]zah?, الجيزة
+EG;Egypt;Sharm El Sheikh;Sharm El Sheikh, شرم الشيخ
 SV;El Salvador;San Salvador;San Salv[a]dor, El Salv[a]dor
 GB-ENG;England;Birmingham;Birmingham
 GB-ENG;England;Brighton;Brighton
@@ -176,6 +182,7 @@ US-FL;Florida;Tampa;Tampa
 FR;France;Calais;Calais, Calés, Kales
 FR;France;Cannes;Cannes, Canas
 FR;France;Lyon;Li?yon
+FR;France;Marne-La-Vallée;Marne-La-Vallée
 FR;France;Marseille;Marseille, Marselha
 FR;France;Nantes;Nantes,Na(un)?ntt?
 FR;France;Paris;Paris
@@ -241,6 +248,7 @@ US-IN;Indiana;Indianapolis;Indianapolis
 ID;Indonesia;Bandung;Bandung, Stad Bandoeng, Kota Bandung
 ID;Indonesia;Bekasi;(Kota )?Bekasi
 ID;Indonesia;Bogor;Bogor, Buitenzorg
+ID;Indonesia;Denpasar;Denpasar
 ID;Indonesia;Jakarta;Jakarta
 ID;Indonesia;Makassar;Ma[kc]assar
 ID;Indonesia;Malang;Malang
@@ -307,9 +315,11 @@ MT;Malta;Valletta;Valletta
 US-MD;Maryland;Annapolis;Annapolis
 US-MD;Maryland;Baltimore;Baltimore
 US-MA;Massachusetts;Boston;Boston
+MX;Mexico;Cancún;Cancún
 MX;Mexico;Guadalajara;Guadalajara
-MX;Mexico;Mexico City;M[e]xi[ck]o City, City of M[e]xi[ck]o, Ciudad de México, CMDX
+MX;Mexico;Mexico City;M[e]xi[ck]o City, City of M[e]xi[ck]o, Ciudad de México, CDMX
 MX;Mexico;Monterrey;Monterrey
+MX;Mexico;Playa del Carmen;Playa del Carmen.{1,5}MX
 MX;Mexico;Tijuana;Tijuana
 US-MI;Michigan;Detroit;Detroit
 US-MI;Michigan;Lansing;Lansing
@@ -393,6 +403,7 @@ PT;Portugal;Braga;Braga
 PT;Portugal;Coimbra;Coimbra
 PT;Portugal;Lisbon;Lisbo[na]
 PT;Portugal;Porto;O?porto
+QA;Qatar;Doha;Doha, الدوحة‎, ad-Dawḥa
 RO;Romania;Bucharest;Bucharest, Bucure[ș]ti
 RO;Romania;Cluj-Napoca;Cluj(-Napoca)?
 RO;Romania;Vrancea;Vrancea
@@ -409,6 +420,7 @@ RU;Russia;Sochi;Sochi, Сочи
 RU;Russia;Yekaterinburg;Yekaterinburg, Ekaterinburg, Екатеринбу́рг
 SM;San Marino;San Marino;San Marino
 SA;Saudi Arabia;Al Khobar;(Al )?Khobar
+SA;Saudi Arabia;Dammam;Damm[a]m, الدمام
 SA;Saudi Arabia;Jeddah;J[ei]ddah?, جدة‎‎
 SA;Saudi Arabia;Mecca;Mecca, [MB]akkah, مكة المكرمة
 SA;Saudi Arabia;Riyadh;Riyadh, الرياض
@@ -463,8 +475,10 @@ TH;Thailand;Pattaya;Ph?atth?aya, พัทยา
 TH;Thailand;Phuket;Phuket, Talang, Tanjung Salang, ภูเก็ต
 CD;The Democratic Republic of the Congo;Brazzaville;Brazzaville
 CD;The Democratic Republic of the Congo;Kinshasa;Kinshasa, Ville de Kinshasa, Léopoldville, Leopoldstad
+TN;Tunisia;Djerba;Djerba, Jerba, Jarbah
 TN;Tunisia;Tunis;Tunis, تونس
 TR;Turkey;Ankara;Ankara, Ancyra
+TR;Turkey;Edirne;Edirne
 TR;Turkey;Istanbul;[I]stanbul, Constantinople, Byzantium
 TR;Turkey;İzmir;[İ]zmir
 UG;Uganda;Kampala;Kampala
