@@ -1,8 +1,8 @@
 {
 	"name": "country-in-text-detector",
-	"version": "1.0.9",
+	"version": "1.0.10",
 	"author": "Jan Rus <ing.janrus@gmail.com> (https://cz.linkedin.com/in/rusjan)",
-	"description": "Module for detection of countries in given text. Detects countries by international and local name, some of them in more language mutations.",
+	"description": "Module for detection of countries in given text. Detects countries by international and local name, some of them in more language mutations. Uses also names of large cities to derive related countries.",
 	"keywords": [
 		"country",
 		"state",
