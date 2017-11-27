@@ -37,6 +37,7 @@ AZ;Azerbaijan;Stepanakert;Step'?anakert, Khankendi, Vararakn, Ստեփանակե
 BD;Bangladesh;Chittagong;Chittagong, Chottogram, Chatga, চট্টগ্রাম
 BD;Bangladesh;Dhaka;Dhaka, Dacca, ঢাকা
 BY;Belarus;Minsk;Minsk, Мінск, Минск, Менск
+BE;Belgium;Antwerp;Antwerp, Antwerpen, Anvers
 BE;Belgium;Brussels;Brussels?, Bruxelles
 BO;Bolivia;Santa Cruz de la Sierra;Santa Cruz( de la Sierra)?
 BA;Bosnia and Herzegovina;Sarajevo;Sarajevo, Сарајево
@@ -152,11 +153,15 @@ EG;Egypt;Giza;G[i]zah?, الجيزة
 EG;Egypt;Sharm El Sheikh;Sharm El Sheikh, شرم الشيخ
 SV;El Salvador;San Salvador;San Salv[a]dor, El Salv[a]dor
 GB-ENG;England;Birmingham;Birmingham
+GB-ENG;England;Bradford;Bradford
 GB-ENG;England;Brighton;Brighton
 GB-ENG;England;Bristol;Bristol
 GB-ENG;England;Cambridge;Cambridge
 GB-ENG;England;Canterbury;Canterbury
+GB-ENG;England;Chelmsford;Chelmsford
+GB-ENG;England;Coventry;Coventry
 GB-ENG;England;Dover;Dover
+GB-ENG;England;Gloucester;Gloucester
 GB-ENG;England;Isle of Portland;Isle of Portland
 GB-ENG;England;Leeds;Leeds
 GB-ENG;England;Leicester;Leicester
@@ -169,23 +174,34 @@ GB-ENG;England;Northampton;Northampton
 GB-ENG;England;Norwich;Norwich
 GB-ENG;England;Nottingham;Nottingham
 GB-ENG;England;Oxford;Oxford
+GB-ENG;England;Peterborough;Peterborough
 GB-ENG;England;Plymouth;Plymouth
+GB-ENG;England;Portsmouth;Portsmouth
+GB-ENG;England;Sheffield;Sheffield
 GB-ENG;England;Southampton;Southampton
+GB-ENG;England;Wolverhampton;Wolverhampton
 EE;Estonia;Tallinn;Tallinn
 ET;Ethiopia;Addis Ababa;Addis Ab[a]ba, Addis Abeba, Finfinne, አዲስ አበባ
 FI;Finland;Helsinki;Helsinki, Helsingfors, Helsingin
+US-FL;Florida;Jacksonville;Jacksonville
 US-FL;Florida;Miami;Miami
 US-FL;Florida;Orlando;Orlando
 US-FL;Florida;Palm Beach;Palm Beach
 US-FL;Florida;Tallahassee;Tallahassee
 US-FL;Florida;Tampa;Tampa
+FR;France;Bordeaux;Bordeaux
 FR;France;Calais;Calais, Calés, Kales
 FR;France;Cannes;Cannes, Canas
+FR;France;Le Havre;Le Havre
+FR;France;Le Mans;Le Mans
 FR;France;Lyon;Li?yon
 FR;France;Marne-La-Vallée;Marne-La-Vallée
 FR;France;Marseille;Marseille, Marselha
+FR;France;Montpellier;Montpellier
 FR;France;Nantes;Nantes,Na(un)?ntt?
 FR;France;Paris;Paris
+FR;France;Rennes;Rennes, Roazhon
+FR;France;Rouen;Rouen, Rodomo, Rotomagus
 FR;France;Saint Tropez;(St|Sai?nt?) Trou?p[e]z
 FR;France;Strasbourg;Strasbourg, Strossburi, Stra(ß|ss)burg
 FR;France;Toulouse;Toulouse, Tolosa
@@ -297,6 +313,8 @@ US-KS;Kansas;Topeka;Topeka
 KZ;Kazakhstan;Almaty;Almaty, Alma Ata Алматы, Almatı
 KZ;Kazakhstan;Astana;Astana
 US-KY;Kentucky;Austin;Austin.{1,5}(Kentucky|KY)
+US-KY;Kentucky;Lexington;Lexington(.{1,5}(Kentucky|KY))?
+US-KY;Kentucky;Louisville;Louisville(.{1,5}(Kentucky|KY))?
 KE;Kenya;Nairobi;Nairobi
 XK;Kosovo;Pristina;Pristina, Prishtina, Prishtinë, Приштина, Priština, Prishtina
 LV;Latvia;Riga;R[i]ga
@@ -330,6 +348,7 @@ US-MN;Minnesota;Saint Paul;Saint Paul
 US-MO;Missouri;Austin;Austin.{1,5}(Missoury|MO)
 US-MO;Missouri;Jefferson City;Jefferson City
 US-MO;Missouri;Kansas City;Kansas City
+US-MO;Missouri;St. Louis;(City of )?St. Louis
 MD;Moldova;Kishinev;Kishinev, Chi[ș]in[ă]u, Kishinyov, Кишинёв
 MD;Moldova;Tiraspol;Tiraspol, Тирасполь, Тираспіль
 MC;Monaco;Monaco;Monaco
@@ -341,7 +360,7 @@ MM;Myanmar;Mandalay;Mandalay
 MM;Myanmar;Yangon;Yangon, Rangoon, ရန်ကုန်
 NP;Nepal;Kathmandu;Kathmandu, काठमाडौं
 NL;Netherlands;Amsterdam;Amsterdam
-NL;Netherlands;Hague;Hague, (Den )?Haag
+NL;Netherlands;Hague;(The )?Hague, (Den )?Haag
 NL;Netherlands;Eindhoven;Eindhoven
 NL;Netherlands;Rotterdam;Rotterdam
 US-NV;Nevada;Austin;Austin.{1,5}(Nevada|NV)
@@ -369,6 +388,7 @@ NO;Norway;Oslo;Oslo
 US-OH;Ohio;Austin;Austin.{1,5}(Ohio|OH)
 US-OH;Ohio;Cincinnati;Cincinnati
 US-OH;Ohio;Cleveland;Cleveland
+US-OH;Ohio;Dayton;Dayton(.{1,5}(Ohio|OH))?
 US-OH;Ohio;Norwalk;Norwalk.{1,5}(Ohio|OH)
 US-OK;Oklahoma;Oklahoma City;Oklahoma City
 US-OK;Oklahoma;Tulsa;Tulsa
@@ -403,6 +423,7 @@ PT;Portugal;Braga;Braga
 PT;Portugal;Coimbra;Coimbra
 PT;Portugal;Lisbon;Lisbo[na]
 PT;Portugal;Porto;O?porto
+PT;Portugal;Setúbal;Setúbal
 QA;Qatar;Doha;Doha, الدوحة‎, ad-Dawḥa
 RO;Romania;Bucharest;Bucharest, Bucure[ș]ti
 RO;Romania;Cluj-Napoca;Cluj(-Napoca)?
