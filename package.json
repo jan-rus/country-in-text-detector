@@ -13,14 +13,13 @@
 		"location"
 	],
 	"license": "MIT",
-	"main": "index.json",
+	"main": "index.js",
 	"repository": {
 		"type": "git",
 		"url": "git+ssh://git@github.com/jan-rus/country-in-text-detector.git"
 	},
 	"engines": {
-		"node": ">=1.0.0",
-		"coffee-script": ">=1.0.0"
+		"node": ">=1.0.0"
 	},
 	"dependencies": {},
 	"bugs": {
